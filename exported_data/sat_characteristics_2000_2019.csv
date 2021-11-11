@@ -1,0 +1,1315 @@
+,Characteristics,Category,Year,Reading,Math,Writing,Percentage Distribution
+0,All students,All students,2004-01-01,508.0,518.0,0.0,100.0
+1,Top decile,High school rank,2004-01-01,584.0,602.0,0.0,29.0
+2,Second decile,High school rank,2004-01-01,522.0,537.0,0.0,24.0
+3,Second quintile,High school rank,2004-01-01,486.0,494.0,0.0,22.0
+4,Third quintile,High school rank,2004-01-01,449.0,451.0,0.0,20.0
+5,Fourth quintile,High school rank,2004-01-01,422.0,421.0,0.0,4.0
+6,Fifth quintile,High school rank,2004-01-01,415.0,418.0,0.0,1.0
+7,A+ (97-100),High school grade point average,2004-01-01,606.0,620.0,0.0,6.0
+8,A (93-96),High school grade point average,2004-01-01,567.0,580.0,0.0,18.0
+9,A- (90-92),High school grade point average,2004-01-01,537.0,549.0,0.0,17.0
+10,B (80-89),High school grade point average,2004-01-01,480.0,486.0,0.0,47.0
+11,C (70-79),High school grade point average,2004-01-01,429.0,431.0,0.0,11.0
+12,"D, E, or F (below 70)",High school grade point average,2004-01-01,421.0,446.0,0.0,0.0
+13,Agriculture and Related Sciences,Intended college major,2004-01-01,484.0,483.0,0.0,1.0
+14,Architecture,Intended college major,2004-01-01,479.0,510.0,0.0,2.0
+15,Arts: Visual/Performing,Intended college major,2004-01-01,517.0,501.0,0.0,8.0
+16,Biological and Biomedical Sciences,Intended college major,2004-01-01,544.0,552.0,0.0,6.0
+17,Business and Commerce,Intended college major,2004-01-01,486.0,509.0,0.0,13.0
+18,Communications and Journalism,Intended college major,2004-01-01,525.0,505.0,0.0,4.0
+19,Computer and Information sciences,Intended college major,2004-01-01,504.0,532.0,0.0,5.0
+20,Education,Intended college major,2004-01-01,483.0,482.0,0.0,8.0
+21,Engineering,Intended college major,2004-01-01,525.0,573.0,0.0,9.0
+22,Foreign languages and literatures,Intended college major,2004-01-01,570.0,545.0,0.0,1.0
+23,General/Interdisciplinary,Intended college major,2004-01-01,547.0,533.0,0.0,0.0
+24,Health And Allied Services,Intended college major,2004-01-01,487.0,495.0,0.0,17.0
+25,Home Economics,Intended college major,2004-01-01,460.0,461.0,0.0,0.0
+26,Language And Literature,Intended college major,2004-01-01,603.0,547.0,0.0,2.0
+27,Library And Archival Sciences,Intended college major,2004-01-01,567.0,515.0,0.0,0.0
+28,Mathematics,Intended college major,2004-01-01,541.0,621.0,0.0,1.0
+29,Military Sciences,Intended college major,2004-01-01,516.0,520.0,0.0,1.0
+30,Philosophy And Religious Studies,Intended college major,2004-01-01,560.0,539.0,0.0,1.0
+31,Physical Sciences,Intended college major,2004-01-01,564.0,587.0,0.0,2.0
+32,Public Affairs And Services,Intended college major,2004-01-01,464.0,459.0,0.0,3.0
+33,Social Sciences,Intended college major,2004-01-01,534.0,515.0,0.0,10.0
+34,Technical And Vocational,Intended college major,2004-01-01,443.0,453.0,0.0,1.0
+35,Undecided,Intended college major,2004-01-01,514.0,526.0,0.0,6.0
+36,Certificate program,Degree-level goal,2004-01-01,441.0,456.0,0.0,1.0
+37,Associate's Degree,Degree-level goal,2004-01-01,417.0,417.0,0.0,1.0
+38,Bachelor's degree,Degree-level goal,2004-01-01,474.0,479.0,0.0,24.0
+39,Master's degree,Degree-level goal,2004-01-01,511.0,520.0,0.0,29.0
+40,Doctoral or related degree,Degree-level goal,2004-01-01,540.0,547.0,0.0,21.0
+41,Other,Degree-level goal,2004-01-01,439.0,457.0,0.0,1.0
+42,Undecided,Degree-level goal,2004-01-01,513.0,521.0,0.0,23.0
+43,"Less than $20,000",Family income,2004-01-01,422.0,450.0,0.0,5.0
+44,"Less than $20,000",Family income,2004-01-01,440.0,457.0,0.0,8.0
+45,"$20,000, to $40,000",Family income,2004-01-01,459.0,467.0,0.0,10.0
+46,"$20,000, to $40,000",Family income,2004-01-01,478.0,482.0,0.0,11.0
+47,"$40,000, to $60,000",Family income,2004-01-01,493.0,496.0,0.0,9.0
+48,"$40,000, to $60,000",Family income,2004-01-01,501.0,504.0,0.0,9.0
+49,"$60,000, to $80,000",Family income,2004-01-01,507.0,510.0,0.0,8.0
+50,"$60,000, to $80,000",Family income,2004-01-01,515.0,518.0,0.0,8.0
+51,"$80,000 to $100,000",Family income,2004-01-01,527.0,530.0,0.0,12.0
+52,"$100,000, to $150,000",Family income,2004-01-01,553.0,562.0,0.0,20.0
+53,No high school diploma,Highest level of parental education,2004-01-01,415.0,445.0,0.0,5.0
+54,High school diploma,Highest level of parental education,2004-01-01,469.0,474.0,0.0,33.0
+55,Associate's Degree,Highest level of parental education,2004-01-01,486.0,490.0,0.0,9.0
+56,Bachelor's degree,Highest level of parental education,2004-01-01,523.0,531.0,0.0,28.0
+57,Graduate degree,Highest level of parental education,2004-01-01,558.0,564.0,0.0,25.0
+58,All students,All students,2010-01-01,501.0,516.0,492.0,100.0
+59,Top decile,High school rank,2010-01-01,578.0,606.0,575.0,34.0
+60,Second decile,High school rank,2010-01-01,514.0,535.0,505.0,27.0
+61,Second quintile,High school rank,2010-01-01,484.0,499.0,472.0,19.0
+62,Bottom three quintiles ,High school rank,2010-01-01,441.0,450.0,429.0,20.0
+63,A+ (97-100),High school grade point average,2010-01-01,599.0,621.0,596.0,6.0
+64,A (93-96),High school grade point average,2010-01-01,563.0,584.0,558.0,19.0
+65,A- (90-92),High school grade point average,2010-01-01,531.0,550.0,525.0,19.0
+66,B (80-89),High school grade point average,2010-01-01,473.0,483.0,462.0,45.0
+67,C (70-79),High school grade point average,2010-01-01,418.0,424.0,405.0,10.0
+68,"D, E, or F (below 70)",High school grade point average,2010-01-01,411.0,422.0,399.0,0.0
+69,Public,High school type,2010-01-01,498.0,511.0,488.0,84.0
+70,"Private, religiously affiliated",High school type,2010-01-01,533.0,534.0,530.0,11.0
+71,"Private, independent",High school type,2010-01-01,557.0,583.0,560.0,6.0
+72,Agriculture and Related Sciences,Intended college major,2010-01-01,476.0,485.0,464.0,1.0
+73,Architecture,Intended college major,2010-01-01,492.0,536.0,487.0,2.0
+74,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2010-01-01,555.0,523.0,540.0,0.0
+75,Arts: Visual/Performing,Intended college major,2010-01-01,513.0,501.0,503.0,8.0
+76,Biological and Biomedical Sciences,Intended college major,2010-01-01,544.0,560.0,536.0,6.0
+77,Business and Commerce,Intended college major,2010-01-01,490.0,523.0,487.0,12.0
+78,Communications and Journalism,Intended college major,2010-01-01,524.0,506.0,520.0,3.0
+79,Computer and Information sciences,Intended college major,2010-01-01,510.0,539.0,486.0,2.0
+80,Construction Trades,Intended college major,2010-01-01,416.0,452.0,398.0,0.0
+81,Education,Intended college major,2010-01-01,481.0,486.0,477.0,6.0
+82,Engineering,Intended college major,2010-01-01,531.0,587.0,516.0,8.0
+83,Engineering Technologies,Intended college major,2010-01-01,463.0,509.0,446.0,2.0
+84,English Language and Literature,Intended college major,2010-01-01,587.0,532.0,572.0,2.0
+85,Family and Consumer Sciences,Intended college major,2010-01-01,459.0,465.0,455.0,0.0
+86,Foreign languages and literatures,Intended college major,2010-01-01,572.0,545.0,562.0,1.0
+87,General/Interdisciplinary,Intended college major,2010-01-01,,,,
+88,Health And Allied Services,Intended college major,2010-01-01,489.0,503.0,485.0,18.0
+89,History,Intended college major,2010-01-01,545.0,516.0,516.0,1.0
+90,Legal Professions And Studies,Intended college major,2010-01-01,511.0,506.0,499.0,3.0
+91,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2010-01-01,559.0,539.0,549.0,1.0
+92,Library And Archival Sciences,Intended college major,2010-01-01,558.0,505.0,519.0,0.0
+93,Mathematics,Intended college major,2010-01-01,522.0,606.0,522.0,1.0
+94,Mechanic And Repair Technologies Technician,Intended college major,2010-01-01,419.0,452.0,402.0,0.0
+95,Military Sciences,Intended college major,2010-01-01,501.0,504.0,469.0,0.0
+96,Multi/Interdisciplinary Studies,Intended college major,2010-01-01,605.0,598.0,592.0,0.0
+97,Natural Resources And Conservation,Intended college major,2010-01-01,528.0,528.0,510.0,1.0
+98,"Parks, Recreation, And Leisure Studies",Intended college major,2010-01-01,448.0,474.0,439.0,1.0
+99,Personal And Culinary Services,Intended college major,2010-01-01,457.0,460.0,443.0,0.0
+100,Philosophy And Religious Studies,Intended college major,2010-01-01,563.0,540.0,540.0,0.0
+101,Physical Sciences,Intended college major,2010-01-01,558.0,588.0,540.0,1.0
+102,Precision Production,Intended college major,2010-01-01,436.0,464.0,417.0,0.0
+103,Psychology,Intended college major,2010-01-01,505.0,492.0,496.0,5.0
+104,Public Affairs And Services,Intended college major,2010-01-01,469.0,459.0,462.0,0.0
+105,Security And Protective Services,Intended college major,2010-01-01,448.0,459.0,438.0,2.0
+106,Social Sciences,Intended college major,2010-01-01,,,,
+107,Social Sciences,Intended college major,2010-01-01,574.0,558.0,559.0,2.0
+108,Technical And Vocational,Intended college major,2010-01-01,,,,
+109,Theology And Religious Vocations,Intended college major,2010-01-01,539.0,524.0,515.0,0.0
+110,Transportation And Materials Moving,Intended college major,2010-01-01,464.0,496.0,451.0,0.0
+111,Other,Intended college major,2010-01-01,456.0,465.0,447.0,2.0
+112,Undecided,Intended college major,2010-01-01,532.0,548.0,524.0,7.0
+113,Certificate program,Degree-level goal,2010-01-01,442.0,463.0,432.0,1.0
+114,Associate's Degree,Degree-level goal,2010-01-01,414.0,421.0,405.0,1.0
+115,Bachelor's degree,Degree-level goal,2010-01-01,477.0,488.0,466.0,28.0
+116,Master's degree,Degree-level goal,2010-01-01,509.0,524.0,501.0,30.0
+117,Doctoral or related degree,Degree-level goal,2010-01-01,537.0,551.0,529.0,21.0
+118,Other,Degree-level goal,2010-01-01,431.0,452.0,427.0,1.0
+119,Undecided,Degree-level goal,2010-01-01,516.0,529.0,507.0,18.0
+120,"Less than $20,000",Family income,2010-01-01,437.0,460.0,432.0,11.0
+121,"$20,000, to $40,000",Family income,2010-01-01,465.0,479.0,455.0,16.0
+122,"$40,000, to $60,000",Family income,2010-01-01,490.0,500.0,478.0,15.0
+123,"$60,000, to $80,000",Family income,2010-01-01,504.0,514.0,492.0,14.0
+124,"$80,000 to $100,000",Family income,2010-01-01,518.0,529.0,505.0,12.0
+125,"$100,000, to $150,000",Family income,2010-01-01,528.0,541.0,518.0,10.0
+126,"$100,000, to $150,000",Family income,2010-01-01,533.0,546.0,523.0,5.0
+127,"$100,000, to $150,000",Family income,2010-01-01,540.0,554.0,531.0,4.0
+128,"$150,000, to $200,000",Family income,2010-01-01,547.0,561.0,540.0,5.0
+129,"More than $200,000",Family income,2010-01-01,568.0,586.0,567.0,7.0
+130,No high school diploma,Highest level of parental education,2010-01-01,422.0,446.0,419.0,5.0
+131,High school diploma,Highest level of parental education,2010-01-01,464.0,475.0,453.0,31.0
+132,Associate's Degree,Highest level of parental education,2010-01-01,482.0,491.0,469.0,9.0
+133,Bachelor's degree,Highest level of parental education,2010-01-01,521.0,536.0,512.0,30.0
+134,Graduate degree,Highest level of parental education,2010-01-01,561.0,575.0,554.0,26.0
+135,All students,All students,2011-01-01,497.0,514.0,489.0,100.0
+136,Top decile,High school rank,2011-01-01,575.0,606.0,572.0,35.0
+137,Second decile,High school rank,2011-01-01,510.0,535.0,503.0,27.0
+138,Second quintile,High school rank,2011-01-01,482.0,498.0,470.0,18.0
+139,Bottom three quintiles ,High school rank,2011-01-01,438.0,448.0,426.0,20.0
+140,A+ (97-100),High school grade point average,2011-01-01,596.0,620.0,595.0,6.0
+141,A (93-96),High school grade point average,2011-01-01,560.0,583.0,556.0,19.0
+142,A- (90-92),High school grade point average,2011-01-01,528.0,548.0,521.0,19.0
+143,B (80-89),High school grade point average,2011-01-01,469.0,480.0,458.0,45.0
+144,C (70-79),High school grade point average,2011-01-01,416.0,421.0,401.0,10.0
+145,"D, E, or F (below 70)",High school grade point average,2011-01-01,409.0,425.0,398.0,0.0
+146,Public,High school type,2011-01-01,494.0,506.0,483.0,84.0
+147,"Private, religiously affiliated",High school type,2011-01-01,531.0,533.0,528.0,10.0
+148,"Private, independent",High school type,2011-01-01,541.0,579.0,550.0,6.0
+149,Agriculture and Related Sciences,Intended college major,2011-01-01,475.0,484.0,461.0,1.0
+150,Architecture,Intended college major,2011-01-01,490.0,534.0,485.0,2.0
+151,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2011-01-01,545.0,513.0,531.0,0.0
+152,Arts: Visual/Performing,Intended college major,2011-01-01,508.0,497.0,499.0,8.0
+153,Biological and Biomedical Sciences,Intended college major,2011-01-01,540.0,557.0,533.0,6.0
+154,Business and Commerce,Intended college major,2011-01-01,488.0,522.0,484.0,11.0
+155,Communications and Journalism,Intended college major,2011-01-01,519.0,502.0,516.0,3.0
+156,Computer and Information sciences,Intended college major,2011-01-01,511.0,539.0,485.0,2.0
+157,Construction Trades,Intended college major,2011-01-01,422.0,451.0,399.0,0.0
+158,Education,Intended college major,2011-01-01,480.0,487.0,476.0,6.0
+159,Engineering,Intended college major,2011-01-01,528.0,584.0,513.0,8.0
+160,Engineering Technologies,Intended college major,2011-01-01,464.0,511.0,447.0,2.0
+161,English Language and Literature,Intended college major,2011-01-01,584.0,529.0,570.0,1.0
+162,Family and Consumer Sciences,Intended college major,2011-01-01,456.0,461.0,452.0,0.0
+163,Foreign languages and literatures,Intended college major,2011-01-01,567.0,542.0,557.0,1.0
+164,General/Interdisciplinary,Intended college major,2011-01-01,,,,
+165,Health And Allied Services,Intended college major,2011-01-01,487.0,502.0,484.0,19.0
+166,History,Intended college major,2011-01-01,542.0,510.0,511.0,1.0
+167,Legal Professions And Studies,Intended college major,2011-01-01,512.0,507.0,500.0,3.0
+168,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2011-01-01,552.0,532.0,541.0,1.0
+169,Library And Archival Sciences,Intended college major,2011-01-01,564.0,505.0,516.0,0.0
+170,Mathematics,Intended college major,2011-01-01,518.0,603.0,519.0,1.0
+171,Mechanic And Repair Technologies Technician,Intended college major,2011-01-01,421.0,451.0,400.0,0.0
+172,Military Sciences,Intended college major,2011-01-01,467.0,471.0,433.0,0.0
+173,Multi/Interdisciplinary Studies,Intended college major,2011-01-01,582.0,580.0,570.0,0.0
+174,Natural Resources And Conservation,Intended college major,2011-01-01,525.0,524.0,506.0,1.0
+175,"Parks, Recreation, And Leisure Studies",Intended college major,2011-01-01,444.0,468.0,435.0,1.0
+176,Personal And Culinary Services,Intended college major,2011-01-01,457.0,456.0,440.0,0.0
+177,Philosophy And Religious Studies,Intended college major,2011-01-01,557.0,535.0,530.0,0.0
+178,Physical Sciences,Intended college major,2011-01-01,553.0,582.0,537.0,1.0
+179,Precision Production,Intended college major,2011-01-01,436.0,468.0,422.0,0.0
+180,Psychology,Intended college major,2011-01-01,505.0,494.0,497.0,5.0
+181,Public Affairs And Services,Intended college major,2011-01-01,467.0,459.0,462.0,0.0
+182,Security And Protective Services,Intended college major,2011-01-01,445.0,454.0,432.0,2.0
+183,Social Sciences,Intended college major,2011-01-01,,,,
+184,Social Sciences,Intended college major,2011-01-01,573.0,558.0,559.0,2.0
+185,Technical And Vocational,Intended college major,2011-01-01,,,,
+186,Theology And Religious Vocations,Intended college major,2011-01-01,539.0,522.0,513.0,0.0
+187,Transportation And Materials Moving,Intended college major,2011-01-01,465.0,496.0,446.0,0.0
+188,Other,Intended college major,2011-01-01,453.0,462.0,443.0,2.0
+189,Undecided,Intended college major,2011-01-01,530.0,545.0,522.0,8.0
+190,Certificate program,Degree-level goal,2011-01-01,445.0,464.0,434.0,1.0
+191,Associate's Degree,Degree-level goal,2011-01-01,412.0,416.0,400.0,1.0
+192,Bachelor's degree,Degree-level goal,2011-01-01,478.0,490.0,467.0,30.0
+193,Master's degree,Degree-level goal,2011-01-01,506.0,524.0,499.0,29.0
+194,Doctoral or related degree,Degree-level goal,2011-01-01,534.0,550.0,527.0,21.0
+195,Other,Degree-level goal,2011-01-01,425.0,451.0,423.0,1.0
+196,Undecided,Degree-level goal,2011-01-01,509.0,522.0,499.0,16.0
+197,"Less than $20,000",Family income,2011-01-01,434.0,460.0,429.0,13.0
+198,"$20,000, to $40,000",Family income,2011-01-01,464.0,480.0,454.0,16.0
+199,"$40,000, to $60,000",Family income,2011-01-01,487.0,499.0,475.0,15.0
+200,"$60,000, to $80,000",Family income,2011-01-01,502.0,512.0,489.0,14.0
+201,"$80,000 to $100,000",Family income,2011-01-01,515.0,527.0,503.0,12.0
+202,"$100,000, to $150,000",Family income,2011-01-01,526.0,539.0,515.0,10.0
+203,"$100,000, to $150,000",Family income,2011-01-01,530.0,544.0,520.0,5.0
+204,"$100,000, to $150,000",Family income,2011-01-01,538.0,552.0,529.0,4.0
+205,"$150,000, to $200,000",Family income,2011-01-01,543.0,557.0,536.0,5.0
+206,"More than $200,000",Family income,2011-01-01,568.0,586.0,567.0,7.0
+207,No high school diploma,Highest level of parental education,2011-01-01,421.0,449.0,418.0,6.0
+208,High school diploma,Highest level of parental education,2011-01-01,463.0,476.0,452.0,31.0
+209,Associate's Degree,Highest level of parental education,2011-01-01,480.0,489.0,466.0,8.0
+210,Bachelor's degree,Highest level of parental education,2011-01-01,522.0,538.0,514.0,31.0
+211,Graduate degree,Highest level of parental education,2011-01-01,559.0,574.0,554.0,25.0
+212,All students,All students,2005-01-01,508.0,520.0,0.0,0.0
+213,Top decile,High school rank,2005-01-01,585.0,606.0,0.0,0.0
+214,Second decile,High school rank,2005-01-01,523.0,540.0,0.0,0.0
+215,Second quintile,High school rank,2005-01-01,488.0,499.0,0.0,0.0
+216,Third quintile,High school rank,2005-01-01,452.0,455.0,0.0,0.0
+217,Fourth quintile,High school rank,2005-01-01,425.0,424.0,0.0,0.0
+218,Fifth quintile,High school rank,2005-01-01,426.0,430.0,0.0,0.0
+219,A+ (97-100),High school grade point average,2005-01-01,607.0,625.0,0.0,0.0
+220,A (93-96),High school grade point average,2005-01-01,570.0,585.0,0.0,0.0
+221,A- (90-92),High school grade point average,2005-01-01,541.0,555.0,0.0,0.0
+222,B (80-89),High school grade point average,2005-01-01,484.0,491.0,0.0,0.0
+223,C (70-79),High school grade point average,2005-01-01,430.0,432.0,0.0,0.0
+224,"D, E, or F (below 70)",High school grade point average,2005-01-01,415.0,439.0,0.0,0.0
+225,Agriculture and Related Sciences,Intended college major,2005-01-01,487.0,486.0,0.0,0.0
+226,Architecture,Intended college major,2005-01-01,495.0,527.0,0.0,0.0
+227,Arts: Visual/Performing,Intended college major,2005-01-01,521.0,506.0,0.0,0.0
+228,Biological and Biomedical Sciences,Intended college major,2005-01-01,547.0,558.0,0.0,0.0
+229,Business and Commerce,Intended college major,2005-01-01,491.0,515.0,0.0,0.0
+230,Communications and Journalism,Intended college major,2005-01-01,527.0,509.0,0.0,0.0
+231,Computer and Information sciences,Intended college major,2005-01-01,508.0,535.0,0.0,0.0
+232,Education,Intended college major,2005-01-01,486.0,488.0,0.0,0.0
+233,Engineering,Intended college major,2005-01-01,529.0,579.0,0.0,0.0
+234,Foreign languages and literatures,Intended college major,2005-01-01,575.0,551.0,0.0,0.0
+235,General/Interdisciplinary,Intended college major,2005-01-01,546.0,535.0,0.0,0.0
+236,Health And Allied Services,Intended college major,2005-01-01,490.0,501.0,0.0,0.0
+237,Home Economics,Intended college major,2005-01-01,463.0,466.0,0.0,0.0
+238,Language And Literature,Intended college major,2005-01-01,606.0,552.0,0.0,0.0
+239,Library And Archival Sciences,Intended college major,2005-01-01,577.0,511.0,0.0,0.0
+240,Mathematics,Intended college major,2005-01-01,545.0,626.0,0.0,0.0
+241,Military Sciences,Intended college major,2005-01-01,522.0,526.0,0.0,0.0
+242,Philosophy And Religious Studies,Intended college major,2005-01-01,561.0,542.0,0.0,0.0
+243,Physical Sciences,Intended college major,2005-01-01,565.0,591.0,0.0,0.0
+244,Public Affairs And Services,Intended college major,2005-01-01,465.0,463.0,0.0,0.0
+245,Social Sciences,Intended college major,2005-01-01,540.0,522.0,0.0,0.0
+246,Technical And Vocational,Intended college major,2005-01-01,445.0,456.0,0.0,0.0
+247,Undecided,Intended college major,2005-01-01,517.0,530.0,0.0,0.0
+248,Certificate program,Degree-level goal,2005-01-01,445.0,463.0,0.0,0.0
+249,Associate's Degree,Degree-level goal,2005-01-01,420.0,421.0,0.0,0.0
+250,Bachelor's degree,Degree-level goal,2005-01-01,481.0,487.0,0.0,0.0
+251,Master's degree,Degree-level goal,2005-01-01,516.0,526.0,0.0,0.0
+252,Doctoral or related degree,Degree-level goal,2005-01-01,542.0,552.0,0.0,0.0
+253,Other,Degree-level goal,2005-01-01,442.0,464.0,0.0,0.0
+254,Undecided,Degree-level goal,2005-01-01,517.0,527.0,0.0,0.0
+255,"Less than $20,000",Family income,2005-01-01,426.0,458.0,0.0,0.0
+256,"Less than $20,000",Family income,2005-01-01,443.0,463.0,0.0,0.0
+257,"$20,000, to $40,000",Family income,2005-01-01,463.0,474.0,0.0,0.0
+258,"$20,000, to $40,000",Family income,2005-01-01,480.0,487.0,0.0,0.0
+259,"$40,000, to $60,000",Family income,2005-01-01,496.0,500.0,0.0,0.0
+260,"$40,000, to $60,000",Family income,2005-01-01,505.0,509.0,0.0,0.0
+261,"$60,000, to $80,000",Family income,2005-01-01,511.0,515.0,0.0,0.0
+262,"$60,000, to $80,000",Family income,2005-01-01,517.0,522.0,0.0,0.0
+263,"$80,000 to $100,000",Family income,2005-01-01,529.0,534.0,0.0,0.0
+264,"$100,000, to $150,000",Family income,2005-01-01,554.0,565.0,0.0,0.0
+265,No high school diploma,Highest level of parental education,2005-01-01,419.0,452.0,0.0,0.0
+266,High school diploma,Highest level of parental education,2005-01-01,471.0,479.0,0.0,0.0
+267,Associate's Degree,Highest level of parental education,2005-01-01,489.0,494.0,0.0,0.0
+268,Bachelor's degree,Highest level of parental education,2005-01-01,527.0,536.0,0.0,0.0
+269,Graduate degree,Highest level of parental education,2005-01-01,561.0,570.0,0.0,0.0
+270,All students,All students,2013-01-01,496.0,514.0,488.0,100.0
+271,Top decile,High school rank,2013-01-01,572.0,606.0,569.0,36.0
+272,Second decile,High school rank,2013-01-01,508.0,534.0,499.0,27.0
+273,Second quintile,High school rank,2013-01-01,481.0,497.0,468.0,18.0
+274,Bottom three quintiles ,High school rank,2013-01-01,436.0,445.0,423.0,20.0
+275,A+ (97-100),High school grade point average,2013-01-01,592.0,619.0,590.0,7.0
+276,A (93-96),High school grade point average,2013-01-01,557.0,580.0,553.0,21.0
+277,A- (90-92),High school grade point average,2013-01-01,522.0,543.0,515.0,20.0
+278,B (80-89),High school grade point average,2013-01-01,465.0,476.0,454.0,44.0
+279,C (70-79),High school grade point average,2013-01-01,411.0,417.0,398.0,9.0
+280,"D, E, or F (below 70)",High school grade point average,2013-01-01,399.0,417.0,389.0,0.0
+281,Public,High school type,2013-01-01,491.0,503.0,480.0,84.0
+282,"Private, religiously affiliated",High school type,2013-01-01,531.0,536.0,528.0,9.0
+283,"Private, independent",High school type,2013-01-01,536.0,581.0,545.0,6.0
+284,Agriculture and Related Sciences,Intended college major,2013-01-01,469.0,478.0,457.0,1.0
+285,Architecture,Intended college major,2013-01-01,487.0,530.0,482.0,2.0
+286,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2013-01-01,539.0,509.0,525.0,0.0
+287,Arts: Visual/Performing,Intended college major,2013-01-01,504.0,494.0,492.0,7.0
+288,Biological and Biomedical Sciences,Intended college major,2013-01-01,537.0,552.0,529.0,7.0
+289,Business and Commerce,Intended college major,2013-01-01,490.0,522.0,485.0,11.0
+290,Communications and Journalism,Intended college major,2013-01-01,515.0,498.0,511.0,3.0
+291,Computer and Information sciences,Intended college major,2013-01-01,518.0,547.0,493.0,3.0
+292,Construction Trades,Intended college major,2013-01-01,421.0,452.0,401.0,0.0
+293,Education,Intended college major,2013-01-01,481.0,485.0,476.0,4.0
+294,Engineering,Intended college major,2013-01-01,527.0,580.0,512.0,10.0
+295,Engineering Technologies,Intended college major,2013-01-01,471.0,524.0,458.0,1.0
+296,English Language and Literature,Intended college major,2013-01-01,578.0,524.0,563.0,1.0
+297,Family and Consumer Sciences,Intended college major,2013-01-01,448.0,452.0,445.0,0.0
+298,Foreign languages and literatures,Intended college major,2013-01-01,562.0,539.0,551.0,1.0
+299,General/Interdisciplinary,Intended college major,2013-01-01,,,,
+300,Health And Allied Services,Intended college major,2013-01-01,484.0,497.0,479.0,19.0
+301,History,Intended college major,2013-01-01,540.0,509.0,511.0,1.0
+302,Legal Professions And Studies,Intended college major,2013-01-01,516.0,509.0,503.0,3.0
+303,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2013-01-01,547.0,530.0,536.0,1.0
+304,Library And Archival Sciences,Intended college major,2013-01-01,563.0,509.0,520.0,0.0
+305,Mathematics,Intended college major,2013-01-01,523.0,604.0,522.0,1.0
+306,Mechanic And Repair Technologies Technician,Intended college major,2013-01-01,416.0,444.0,397.0,0.0
+307,Military Sciences,Intended college major,2013-01-01,486.0,496.0,460.0,1.0
+308,Multi/Interdisciplinary Studies,Intended college major,2013-01-01,587.0,594.0,576.0,0.0
+309,Natural Resources And Conservation,Intended college major,2013-01-01,518.0,519.0,500.0,1.0
+310,"Parks, Recreation, And Leisure Studies",Intended college major,2013-01-01,438.0,461.0,429.0,1.0
+311,Personal And Culinary Services,Intended college major,2013-01-01,448.0,449.0,433.0,0.0
+312,Philosophy And Religious Studies,Intended college major,2013-01-01,546.0,530.0,527.0,0.0
+313,Physical Sciences,Intended college major,2013-01-01,554.0,582.0,537.0,2.0
+314,Precision Production,Intended college major,2013-01-01,442.0,476.0,427.0,0.0
+315,Psychology,Intended college major,2013-01-01,502.0,490.0,492.0,5.0
+316,Public Affairs And Services,Intended college major,2013-01-01,462.0,454.0,457.0,0.0
+317,Security And Protective Services,Intended college major,2013-01-01,445.0,453.0,433.0,3.0
+318,Social Sciences,Intended college major,2013-01-01,,,,
+319,Social Sciences,Intended college major,2013-01-01,565.0,553.0,551.0,2.0
+320,Technical And Vocational,Intended college major,2013-01-01,,,,
+321,Theology And Religious Vocations,Intended college major,2013-01-01,527.0,509.0,507.0,0.0
+322,Transportation And Materials Moving,Intended college major,2013-01-01,451.0,486.0,438.0,0.0
+323,Other,Intended college major,2013-01-01,450.0,460.0,440.0,2.0
+324,Undecided,Intended college major,2013-01-01,533.0,547.0,524.0,7.0
+325,Certificate program,Degree-level goal,2013-01-01,440.0,459.0,430.0,1.0
+326,Associate's Degree,Degree-level goal,2013-01-01,409.0,414.0,397.0,1.0
+327,Bachelor's degree,Degree-level goal,2013-01-01,478.0,489.0,466.0,30.0
+328,Master's degree,Degree-level goal,2013-01-01,506.0,524.0,499.0,30.0
+329,Doctoral or related degree,Degree-level goal,2013-01-01,533.0,548.0,525.0,21.0
+330,Other,Degree-level goal,2013-01-01,412.0,445.0,411.0,1.0
+331,Undecided,Degree-level goal,2013-01-01,504.0,520.0,495.0,15.0
+332,"Less than $20,000",Family income,2013-01-01,435.0,462.0,429.0,14.0
+333,"$20,000, to $40,000",Family income,2013-01-01,465.0,482.0,455.0,16.0
+334,"$40,000, to $60,000",Family income,2013-01-01,487.0,500.0,474.0,14.0
+335,"$60,000, to $80,000",Family income,2013-01-01,500.0,511.0,486.0,13.0
+336,"$80,000 to $100,000",Family income,2013-01-01,512.0,524.0,499.0,11.0
+337,"$100,000, to $150,000",Family income,2013-01-01,522.0,536.0,511.0,10.0
+338,"$100,000, to $150,000",Family income,2013-01-01,526.0,540.0,515.0,5.0
+339,"$100,000, to $150,000",Family income,2013-01-01,533.0,548.0,523.0,4.0
+340,"$150,000, to $200,000",Family income,2013-01-01,539.0,555.0,531.0,5.0
+341,"More than $200,000",Family income,2013-01-01,565.0,586.0,563.0,8.0
+342,No high school diploma,Highest level of parental education,2013-01-01,423.0,451.0,420.0,6.0
+343,High school diploma,Highest level of parental education,2013-01-01,464.0,477.0,453.0,29.0
+344,Associate's Degree,Highest level of parental education,2013-01-01,480.0,488.0,466.0,8.0
+345,Bachelor's degree,Highest level of parental education,2013-01-01,523.0,540.0,513.0,31.0
+346,Graduate degree,Highest level of parental education,2013-01-01,560.0,576.0,553.0,25.0
+347,All students,All students,2007-01-01,502.0,515.0,494.0,100.0
+348,Top decile,High school rank,2007-01-01,580.0,602.0,575.0,32.0
+349,Second decile,High school rank,2007-01-01,516.0,534.0,508.0,26.0
+350,Second quintile,High school rank,2007-01-01,484.0,497.0,474.0,20.0
+351,Bottom three quintiles ,High school rank,2007-01-01,444.0,450.0,434.0,22.0
+352,A+ (97-100),High school grade point average,2007-01-01,604.0,620.0,599.0,7.0
+353,A (93-96),High school grade point average,2007-01-01,565.0,581.0,559.0,18.0
+354,A- (90-92),High school grade point average,2007-01-01,534.0,550.0,528.0,18.0
+355,B (80-89),High school grade point average,2007-01-01,478.0,486.0,469.0,45.0
+356,C (70-79),High school grade point average,2007-01-01,424.0,427.0,411.0,11.0
+357,"D, E, or F (below 70)",High school grade point average,2007-01-01,403.0,412.0,388.0,0.0
+358,Agriculture and Related Sciences,Intended college major,2007-01-01,476.0,480.0,463.0,1.0
+359,Architecture,Intended college major,2007-01-01,492.0,535.0,486.0,3.0
+360,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2007-01-01,547.0,514.0,533.0,0.0
+361,Arts: Visual/Performing,Intended college major,2007-01-01,517.0,503.0,507.0,9.0
+362,Biological and Biomedical Sciences,Intended college major,2007-01-01,540.0,552.0,531.0,6.0
+363,Business and Commerce,Intended college major,2007-01-01,485.0,510.0,479.0,15.0
+364,Communications and Journalism,Intended college major,2007-01-01,523.0,501.0,519.0,4.0
+365,Computer and Information sciences,Intended college major,2007-01-01,505.0,533.0,481.0,3.0
+366,Construction Trades,Intended college major,2007-01-01,415.0,447.0,402.0,0.0
+367,Education,Intended college major,2007-01-01,480.0,483.0,476.0,8.0
+368,Engineering,Intended college major,2007-01-01,524.0,579.0,510.0,8.0
+369,Engineering Technologies,Intended college major,2007-01-01,451.0,491.0,435.0,1.0
+370,Foreign languages and literatures,Intended college major,2007-01-01,581.0,549.0,569.0,1.0
+371,General/Interdisciplinary,Intended college major,2007-01-01,,,,
+372,Health And Allied Services,Intended college major,2007-01-01,487.0,498.0,484.0,19.0
+373,History,Intended college major,2007-01-01,556.0,518.0,528.0,1.0
+374,Home Economics,Intended college major,2007-01-01,463.0,464.0,458.0,0.0
+375,Language And Literature,Intended college major,2007-01-01,596.0,536.0,581.0,2.0
+376,Legal Professions And Studies,Intended college major,2007-01-01,516.0,505.0,504.0,2.0
+377,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2007-01-01,531.0,509.0,516.0,1.0
+378,Library And Archival Sciences,Intended college major,2007-01-01,592.0,517.0,544.0,0.0
+379,Mathematics,Intended college major,2007-01-01,533.0,614.0,529.0,1.0
+380,Mechanic And Repair Technologies Technician,Intended college major,2007-01-01,423.0,449.0,405.0,0.0
+381,Military Sciences,Intended college major,2007-01-01,517.0,524.0,492.0,0.0
+382,Multi/Interdisciplinary Studies,Intended college major,2007-01-01,582.0,584.0,570.0,0.0
+383,Natural Resources And Conservation,Intended college major,2007-01-01,499.0,502.0,481.0,0.0
+384,"Parks, Recreation, And Leisure Studies",Intended college major,2007-01-01,449.0,462.0,437.0,0.0
+385,Personal And Culinary Services,Intended college major,2007-01-01,444.0,440.0,432.0,0.0
+386,Philosophy And Religious Studies,Intended college major,2007-01-01,563.0,538.0,541.0,0.0
+387,Physical Sciences,Intended college major,2007-01-01,560.0,589.0,545.0,2.0
+388,Precision Production,Intended college major,2007-01-01,442.0,462.0,409.0,0.0
+389,Psychology,Intended college major,2007-01-01,506.0,488.0,496.0,4.0
+390,Public Affairs And Services,Intended college major,2007-01-01,497.0,480.0,488.0,1.0
+391,Security And Protective Services,Intended college major,2007-01-01,455.0,457.0,444.0,2.0
+392,Social Sciences,Intended college major,2007-01-01,,,,
+393,Social Sciences,Intended college major,2007-01-01,569.0,544.0,551.0,3.0
+394,Technical And Vocational,Intended college major,2007-01-01,,,,
+395,Theology And Religious Vocations,Intended college major,2007-01-01,541.0,524.0,521.0,0.0
+396,Transportation And Materials Moving,Intended college major,2007-01-01,476.0,495.0,461.0,0.0
+397,Other,Intended college major,2007-01-01,443.0,445.0,430.0,0.0
+398,Undecided,Intended college major,2007-01-01,519.0,535.0,508.0,3.0
+399,Certificate program,Degree-level goal,2007-01-01,442.0,461.0,434.0,1.0
+400,Associate's Degree,Degree-level goal,2007-01-01,415.0,419.0,407.0,1.0
+401,Bachelor's degree,Degree-level goal,2007-01-01,476.0,485.0,467.0,26.0
+402,Master's degree,Degree-level goal,2007-01-01,510.0,522.0,502.0,30.0
+403,Doctoral or related degree,Degree-level goal,2007-01-01,540.0,550.0,531.0,20.0
+404,Other,Degree-level goal,2007-01-01,436.0,452.0,432.0,1.0
+405,Undecided,Degree-level goal,2007-01-01,517.0,527.0,508.0,22.0
+406,"Less than $20,000",Family income,2007-01-01,427.0,451.0,423.0,4.0
+407,"Less than $20,000",Family income,2007-01-01,453.0,472.0,446.0,8.0
+408,"$20,000, to $40,000",Family income,2007-01-01,454.0,465.0,444.0,6.0
+409,"$20,000, to $40,000",Family income,2007-01-01,476.0,485.0,466.0,9.0
+410,"$40,000, to $60,000",Family income,2007-01-01,489.0,496.0,477.0,8.0
+411,"$40,000, to $60,000",Family income,2007-01-01,497.0,504.0,486.0,8.0
+412,"$60,000, to $80,000",Family income,2007-01-01,504.0,511.0,493.0,8.0
+413,"$60,000, to $80,000",Family income,2007-01-01,508.0,516.0,498.0,9.0
+414,"$80,000 to $100,000",Family income,2007-01-01,520.0,529.0,510.0,14.0
+415,"$100,000, to $150,000",Family income,2007-01-01,544.0,556.0,537.0,26.0
+416,No high school diploma,Highest level of parental education,2007-01-01,421.0,445.0,418.0,4.0
+417,High school diploma,Highest level of parental education,2007-01-01,466.0,476.0,457.0,31.0
+418,Associate's Degree,Highest level of parental education,2007-01-01,484.0,492.0,473.0,9.0
+419,Bachelor's degree,Highest level of parental education,2007-01-01,522.0,533.0,513.0,30.0
+420,Graduate degree,Highest level of parental education,2007-01-01,560.0,569.0,552.0,26.0
+421,All students,All students,2006-01-01,503.0,518.0,497.0,100.0
+422,Top decile,High school rank,2006-01-01,580.0,604.0,577.0,31.0
+423,Second decile,High school rank,2006-01-01,516.0,537.0,511.0,25.0
+424,Second quintile,High school rank,2006-01-01,484.0,498.0,476.0,20.0
+425,Bottom three quintiles ,High school rank,2006-01-01,443.0,449.0,435.0,23.0
+426,A+ (97-100),High school grade point average,2006-01-01,602.0,621.0,599.0,7.0
+427,A (93-96),High school grade point average,2006-01-01,563.0,582.0,559.0,18.0
+428,A- (90-92),High school grade point average,2006-01-01,534.0,552.0,529.0,18.0
+429,B (80-89),High school grade point average,2006-01-01,479.0,489.0,471.0,46.0
+430,C (70-79),High school grade point average,2006-01-01,426.0,428.0,414.0,11.0
+431,"D, E, or F (below 70)",High school grade point average,2006-01-01,406.0,413.0,389.0,0.0
+432,Agriculture and Related Sciences,Intended college major,2006-01-01,481.0,485.0,469.0,1.0
+433,Architecture,Intended college major,2006-01-01,488.0,528.0,485.0,3.0
+434,Arts: Visual/Performing,Intended college major,2006-01-01,516.0,502.0,507.0,9.0
+435,Biological and Biomedical Sciences,Intended college major,2006-01-01,540.0,554.0,532.0,6.0
+436,Business and Commerce,Intended college major,2006-01-01,486.0,511.0,481.0,15.0
+437,Communications and Journalism,Intended college major,2006-01-01,522.0,504.0,520.0,4.0
+438,Computer and Information sciences,Intended college major,2006-01-01,503.0,534.0,482.0,4.0
+439,Education,Intended college major,2006-01-01,480.0,484.0,478.0,8.0
+440,Engineering,Intended college major,2006-01-01,519.0,577.0,506.0,8.0
+441,Foreign languages and literatures,Intended college major,2006-01-01,572.0,549.0,563.0,1.0
+442,General/Interdisciplinary,Intended college major,2006-01-01,542.0,532.0,532.0,0.0
+443,Health And Allied Services,Intended college major,2006-01-01,485.0,498.0,483.0,18.0
+444,Home Economics,Intended college major,2006-01-01,462.0,466.0,461.0,0.0
+445,Language And Literature,Intended college major,2006-01-01,597.0,541.0,584.0,2.0
+446,Library And Archival Sciences,Intended college major,2006-01-01,579.0,509.0,542.0,0.0
+447,Mathematics,Intended college major,2006-01-01,539.0,624.0,537.0,1.0
+448,Military Sciences,Intended college major,2006-01-01,510.0,521.0,487.0,1.0
+449,Philosophy And Religious Studies,Intended college major,2006-01-01,557.0,537.0,535.0,1.0
+450,Physical Sciences,Intended college major,2006-01-01,557.0,589.0,542.0,2.0
+451,Public Affairs And Services,Intended college major,2006-01-01,462.0,461.0,454.0,3.0
+452,Social Sciences,Intended college major,2006-01-01,539.0,519.0,525.0,9.0
+453,Technical And Vocational,Intended college major,2006-01-01,437.0,454.0,421.0,1.0
+454,Undecided,Intended college major,2006-01-01,512.0,530.0,502.0,3.0
+455,Certificate program,Degree-level goal,2006-01-01,443.0,462.0,435.0,1.0
+456,Associate's Degree,Degree-level goal,2006-01-01,416.0,420.0,409.0,1.0
+457,Bachelor's degree,Degree-level goal,2006-01-01,477.0,487.0,469.0,25.0
+458,Master's degree,Degree-level goal,2006-01-01,512.0,525.0,505.0,30.0
+459,Doctoral or related degree,Degree-level goal,2006-01-01,539.0,553.0,532.0,20.0
+460,Other,Degree-level goal,2006-01-01,439.0,456.0,436.0,1.0
+461,Undecided,Degree-level goal,2006-01-01,515.0,528.0,508.0,22.0
+462,"Less than $20,000",Family income,2006-01-01,429.0,457.0,427.0,4.0
+463,"Less than $20,000",Family income,2006-01-01,445.0,465.0,440.0,7.0
+464,"$20,000, to $40,000",Family income,2006-01-01,462.0,474.0,454.0,8.0
+465,"$20,000, to $40,000",Family income,2006-01-01,478.0,488.0,470.0,10.0
+466,"$40,000, to $60,000",Family income,2006-01-01,493.0,501.0,483.0,8.0
+467,"$40,000, to $60,000",Family income,2006-01-01,500.0,509.0,490.0,9.0
+468,"$60,000, to $80,000",Family income,2006-01-01,505.0,515.0,496.0,8.0
+469,"$60,000, to $80,000",Family income,2006-01-01,511.0,521.0,502.0,9.0
+470,"$80,000 to $100,000",Family income,2006-01-01,523.0,534.0,514.0,13.0
+471,"$100,000, to $150,000",Family income,2006-01-01,549.0,564.0,543.0,24.0
+472,No high school diploma,Highest level of parental education,2006-01-01,418.0,445.0,418.0,4.0
+473,High school diploma,Highest level of parental education,2006-01-01,467.0,478.0,460.0,31.0
+474,Associate's Degree,Highest level of parental education,2006-01-01,484.0,493.0,474.0,8.0
+475,Bachelor's degree,Highest level of parental education,2006-01-01,522.0,536.0,514.0,30.0
+476,Graduate degree,Highest level of parental education,2006-01-01,558.0,571.0,552.0,27.0
+477,All students,All students,2012-01-01,496.0,514.0,488.0,100.0
+478,Top decile,High school rank,2012-01-01,573.0,606.0,571.0,36.0
+479,Second decile,High school rank,2012-01-01,508.0,534.0,500.0,27.0
+480,Second quintile,High school rank,2012-01-01,480.0,498.0,467.0,17.0
+481,Bottom three quintiles ,High school rank,2012-01-01,435.0,446.0,423.0,20.0
+482,A+ (97-100),High school grade point average,2012-01-01,593.0,620.0,593.0,6.0
+483,A (93-96),High school grade point average,2012-01-01,557.0,581.0,554.0,20.0
+484,A- (90-92),High school grade point average,2012-01-01,524.0,545.0,518.0,19.0
+485,B (80-89),High school grade point average,2012-01-01,466.0,478.0,455.0,44.0
+486,C (70-79),High school grade point average,2012-01-01,414.0,421.0,400.0,10.0
+487,"D, E, or F (below 70)",High school grade point average,2012-01-01,411.0,429.0,399.0,0.0
+488,Public,High school type,2012-01-01,491.0,505.0,481.0,84.0
+489,"Private, religiously affiliated",High school type,2012-01-01,531.0,534.0,529.0,10.0
+490,"Private, independent",High school type,2012-01-01,539.0,580.0,548.0,6.0
+491,Agriculture and Related Sciences,Intended college major,2012-01-01,473.0,481.0,458.0,1.0
+492,Architecture,Intended college major,2012-01-01,490.0,535.0,484.0,2.0
+493,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2012-01-01,543.0,515.0,529.0,0.0
+494,Arts: Visual/Performing,Intended college major,2012-01-01,506.0,498.0,496.0,7.0
+495,Biological and Biomedical Sciences,Intended college major,2012-01-01,538.0,555.0,531.0,7.0
+496,Business and Commerce,Intended college major,2012-01-01,488.0,522.0,485.0,11.0
+497,Communications and Journalism,Intended college major,2012-01-01,517.0,500.0,513.0,3.0
+498,Computer and Information sciences,Intended college major,2012-01-01,512.0,544.0,487.0,2.0
+499,Construction Trades,Intended college major,2012-01-01,420.0,454.0,398.0,0.0
+500,Education,Intended college major,2012-01-01,480.0,486.0,477.0,5.0
+501,Engineering,Intended college major,2012-01-01,526.0,582.0,511.0,9.0
+502,Engineering Technologies,Intended college major,2012-01-01,468.0,521.0,453.0,2.0
+503,English Language and Literature,Intended college major,2012-01-01,580.0,527.0,564.0,1.0
+504,Family and Consumer Sciences,Intended college major,2012-01-01,453.0,458.0,450.0,0.0
+505,Foreign languages and literatures,Intended college major,2012-01-01,564.0,541.0,553.0,1.0
+506,General/Interdisciplinary,Intended college major,2012-01-01,,,,
+507,Health And Allied Services,Intended college major,2012-01-01,485.0,499.0,482.0,19.0
+508,History,Intended college major,2012-01-01,542.0,513.0,511.0,1.0
+509,Legal Professions And Studies,Intended college major,2012-01-01,513.0,508.0,502.0,3.0
+510,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2012-01-01,548.0,533.0,539.0,1.0
+511,Library And Archival Sciences,Intended college major,2012-01-01,561.0,502.0,520.0,0.0
+512,Mathematics,Intended college major,2012-01-01,530.0,614.0,532.0,1.0
+513,Mechanic And Repair Technologies Technician,Intended college major,2012-01-01,414.0,450.0,396.0,0.0
+514,Military Sciences,Intended college major,2012-01-01,490.0,503.0,460.0,0.0
+515,Multi/Interdisciplinary Studies,Intended college major,2012-01-01,581.0,587.0,570.0,0.0
+516,Natural Resources And Conservation,Intended college major,2012-01-01,520.0,523.0,501.0,1.0
+517,"Parks, Recreation, And Leisure Studies",Intended college major,2012-01-01,439.0,464.0,430.0,1.0
+518,Personal And Culinary Services,Intended college major,2012-01-01,453.0,455.0,436.0,1.0
+519,Philosophy And Religious Studies,Intended college major,2012-01-01,551.0,534.0,527.0,0.0
+520,Physical Sciences,Intended college major,2012-01-01,552.0,583.0,537.0,2.0
+521,Precision Production,Intended college major,2012-01-01,460.0,477.0,422.0,0.0
+522,Psychology,Intended college major,2012-01-01,502.0,491.0,493.0,5.0
+523,Public Affairs And Services,Intended college major,2012-01-01,460.0,455.0,456.0,0.0
+524,Security And Protective Services,Intended college major,2012-01-01,445.0,455.0,433.0,3.0
+525,Social Sciences,Intended college major,2012-01-01,,,,
+526,Social Sciences,Intended college major,2012-01-01,568.0,556.0,554.0,2.0
+527,Technical And Vocational,Intended college major,2012-01-01,,,,
+528,Theology And Religious Vocations,Intended college major,2012-01-01,537.0,523.0,515.0,0.0
+529,Transportation And Materials Moving,Intended college major,2012-01-01,457.0,491.0,441.0,0.0
+530,Other,Intended college major,2012-01-01,451.0,463.0,442.0,2.0
+531,Undecided,Intended college major,2012-01-01,531.0,548.0,524.0,7.0
+532,Certificate program,Degree-level goal,2012-01-01,443.0,464.0,433.0,1.0
+533,Associate's Degree,Degree-level goal,2012-01-01,411.0,416.0,399.0,1.0
+534,Bachelor's degree,Degree-level goal,2012-01-01,477.0,490.0,466.0,30.0
+535,Master's degree,Degree-level goal,2012-01-01,505.0,524.0,498.0,30.0
+536,Doctoral or related degree,Degree-level goal,2012-01-01,532.0,549.0,526.0,22.0
+537,Other,Degree-level goal,2012-01-01,416.0,447.0,416.0,1.0
+538,Undecided,Degree-level goal,2012-01-01,505.0,522.0,496.0,16.0
+539,"Less than $20,000",Family income,2012-01-01,433.0,461.0,428.0,14.0
+540,"$20,000, to $40,000",Family income,2012-01-01,463.0,481.0,453.0,17.0
+541,"$40,000, to $60,000",Family income,2012-01-01,485.0,500.0,473.0,14.0
+542,"$60,000, to $80,000",Family income,2012-01-01,499.0,512.0,486.0,13.0
+543,"$80,000 to $100,000",Family income,2012-01-01,511.0,525.0,499.0,11.0
+544,"$100,000, to $150,000",Family income,2012-01-01,523.0,539.0,512.0,10.0
+545,"$100,000, to $150,000",Family income,2012-01-01,527.0,543.0,517.0,5.0
+546,"$100,000, to $150,000",Family income,2012-01-01,534.0,551.0,525.0,4.0
+547,"$150,000, to $200,000",Family income,2012-01-01,540.0,557.0,534.0,5.0
+548,"More than $200,000",Family income,2012-01-01,567.0,589.0,566.0,8.0
+549,No high school diploma,Highest level of parental education,2012-01-01,420.0,450.0,418.0,6.0
+550,High school diploma,Highest level of parental education,2012-01-01,463.0,477.0,452.0,30.0
+551,Associate's Degree,Highest level of parental education,2012-01-01,479.0,489.0,465.0,8.0
+552,Bachelor's degree,Highest level of parental education,2012-01-01,522.0,540.0,513.0,31.0
+553,Graduate degree,Highest level of parental education,2012-01-01,560.0,577.0,555.0,25.0
+554,All students,All students,2016-01-01,494.0,508.0,482.0,100.0
+555,Top decile,High school rank,2016-01-01,575.0,603.0,566.0,35.0
+556,Second decile,High school rank,2016-01-01,510.0,528.0,496.0,27.0
+557,Second quintile,High school rank,2016-01-01,482.0,491.0,465.0,19.0
+558,Bottom three quintiles ,High school rank,2016-01-01,438.0,442.0,422.0,20.0
+559,A+ (97-100),High school grade point average,2016-01-01,591.0,614.0,585.0,7.0
+560,A (93-96),High school grade point average,2016-01-01,558.0,577.0,549.0,20.0
+561,A- (90-92),High school grade point average,2016-01-01,523.0,539.0,511.0,20.0
+562,B (80-89),High school grade point average,2016-01-01,462.0,469.0,447.0,44.0
+563,C (70-79),High school grade point average,2016-01-01,406.0,408.0,389.0,9.0
+564,"D, E, or F (below 70)",High school grade point average,2016-01-01,375.0,390.0,363.0,0.0
+565,Public,High school type,2016-01-01,487.0,494.0,472.0,85.0
+566,"Private, religiously affiliated",High school type,2016-01-01,532.0,537.0,525.0,9.0
+567,"Private, independent",High school type,2016-01-01,530.0,579.0,536.0,7.0
+568,Agriculture and Related Sciences,Intended college major,2016-01-01,469.0,472.0,453.0,1.0
+569,Architecture,Intended college major,2016-01-01,483.0,521.0,474.0,1.0
+570,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2016-01-01,537.0,502.0,519.0,0.0
+571,Arts: Visual/Performing,Intended college major,2016-01-01,506.0,492.0,490.0,7.0
+572,Biological and Biomedical Sciences,Intended college major,2016-01-01,536.0,545.0,524.0,7.0
+573,Business and Commerce,Intended college major,2016-01-01,496.0,519.0,487.0,12.0
+574,Communications and Journalism,Intended college major,2016-01-01,516.0,496.0,507.0,2.0
+575,Computer and Information sciences,Intended college major,2016-01-01,535.0,563.0,508.0,4.0
+576,Construction Trades,Intended college major,2016-01-01,431.0,453.0,408.0,0.0
+577,Education,Intended college major,2016-01-01,482.0,480.0,472.0,4.0
+578,Engineering,Intended college major,2016-01-01,528.0,574.0,510.0,11.0
+579,Engineering Technologies,Intended college major,2016-01-01,480.0,525.0,463.0,1.0
+580,English Language and Literature,Intended college major,2016-01-01,576.0,521.0,557.0,1.0
+581,Family and Consumer Sciences,Intended college major,2016-01-01,451.0,453.0,445.0,0.0
+582,Foreign languages and literatures,Intended college major,2016-01-01,554.0,528.0,538.0,1.0
+583,General/Interdisciplinary,Intended college major,2016-01-01,,,,
+584,Health And Allied Services,Intended college major,2016-01-01,485.0,492.0,477.0,19.0
+585,History,Intended college major,2016-01-01,540.0,505.0,508.0,1.0
+586,Legal Professions And Studies,Intended college major,2016-01-01,520.0,509.0,504.0,2.0
+587,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2016-01-01,549.0,530.0,537.0,1.0
+588,Library Science And Administration,Intended college major,2016-01-01,572.0,508.0,519.0,0.0
+589,Mathematics,Intended college major,2016-01-01,549.0,621.0,544.0,1.0
+590,Mechanic And Repair Technologies Technician,Intended college major,2016-01-01,421.0,444.0,401.0,0.0
+591,Military Technologies,Intended college major,2016-01-01,475.0,480.0,447.0,0.0
+592,Multi/Interdisciplinary Studies,Intended college major,2016-01-01,578.0,583.0,566.0,1.0
+593,Natural Resources And Conservation,Intended college major,2016-01-01,526.0,519.0,502.0,1.0
+594,"Parks, Recreation, And Leisure Studies",Intended college major,2016-01-01,438.0,457.0,427.0,1.0
+595,Personal And Culinary Services,Intended college major,2016-01-01,447.0,443.0,426.0,0.0
+596,Philosophy And Religious Studies,Intended college major,2016-01-01,543.0,525.0,519.0,0.0
+597,Physical Sciences,Intended college major,2016-01-01,561.0,584.0,540.0,2.0
+598,Precision Production,Intended college major,2016-01-01,451.0,462.0,418.0,0.0
+599,Psychology,Intended college major,2016-01-01,502.0,486.0,488.0,5.0
+600,Public Administration And Social Services,Intended college major,2016-01-01,473.0,458.0,462.0,0.0
+601,Security And Protective Services,Intended college major,2016-01-01,447.0,449.0,432.0,3.0
+602,Social Sciences,Intended college major,2016-01-01,,,,
+603,Social Sciences,Intended college major,2016-01-01,561.0,545.0,544.0,2.0
+604,Technical And Vocational,Intended college major,2016-01-01,,,,
+605,Theology And Religious Vocations,Intended college major,2016-01-01,530.0,511.0,508.0,0.0
+606,Transportation And Materials Moving,Intended college major,2016-01-01,468.0,492.0,448.0,0.0
+607,Other,Intended college major,2016-01-01,452.0,456.0,438.0,1.0
+608,Undecided,Intended college major,2016-01-01,532.0,541.0,519.0,7.0
+609,Certificate program,Degree-level goal,2016-01-01,427.0,446.0,416.0,1.0
+610,Associate's Degree,Degree-level goal,2016-01-01,405.0,407.0,390.0,1.0
+611,Bachelor's degree,Degree-level goal,2016-01-01,479.0,487.0,463.0,27.0
+612,Master's degree,Degree-level goal,2016-01-01,511.0,524.0,499.0,34.0
+613,Doctoral or related degree,Degree-level goal,2016-01-01,535.0,545.0,523.0,24.0
+614,Other,Degree-level goal,2016-01-01,400.0,431.0,397.0,1.0
+615,Undecided,Degree-level goal,2016-01-01,505.0,516.0,492.0,14.0
+616,"Less than $20,000",Family income,2016-01-01,435.0,453.0,426.0,13.0
+617,"$20,000, to $40,000",Family income,2016-01-01,465.0,477.0,452.0,16.0
+618,"$40,000, to $60,000",Family income,2016-01-01,488.0,495.0,471.0,14.0
+619,"$60,000, to $80,000",Family income,2016-01-01,503.0,509.0,485.0,12.0
+620,"$80,000 to $100,000",Family income,2016-01-01,517.0,527.0,501.0,12.0
+621,"$100,000, to $150,000",Family income,2016-01-01,530.0,539.0,513.0,15.0
+622,"$150,000, to $200,000",Family income,2016-01-01,542.0,553.0,528.0,10.0
+623,"More than $200,000",Family income,2016-01-01,569.0,586.0,562.0,9.0
+624,No high school diploma,Highest level of parental education,2016-01-01,418.0,438.0,411.0,7.0
+625,High school diploma,Highest level of parental education,2016-01-01,460.0,468.0,445.0,28.0
+626,Associate's Degree,Highest level of parental education,2016-01-01,478.0,482.0,460.0,8.0
+627,Bachelor's degree,Highest level of parental education,2016-01-01,521.0,535.0,508.0,31.0
+628,Graduate degree,Highest level of parental education,2016-01-01,558.0,572.0,547.0,25.0
+629,All students,All students,2002-01-01,504.0,516.0,0.0,100.0
+630,Top decile,High school rank,2002-01-01,585.0,607.0,0.0,26.0
+631,Second decile,High school rank,2002-01-01,522.0,539.0,0.0,23.0
+632,Second quintile,High school rank,2002-01-01,485.0,495.0,0.0,25.0
+633,Third quintile,High school rank,2002-01-01,448.0,449.0,0.0,22.0
+634,Fourth quintile,High school rank,2002-01-01,419.0,416.0,0.0,4.0
+635,Fifth quintile,High school rank,2002-01-01,405.0,404.0,0.0,1.0
+636,A+ (97-100),High school grade point average,2002-01-01,607.0,626.0,0.0,7.0
+637,A (93-96),High school grade point average,2002-01-01,565.0,582.0,0.0,17.0
+638,A- (90-92),High school grade point average,2002-01-01,538.0,553.0,0.0,17.0
+639,B (80-89),High school grade point average,2002-01-01,479.0,486.0,0.0,47.0
+640,C (70-79),High school grade point average,2002-01-01,424.0,424.0,0.0,11.0
+641,"D, E, or F (below 70)",High school grade point average,2002-01-01,404.0,409.0,0.0,0.0
+642,Agriculture and Related Sciences,Intended college major,2002-01-01,481.0,481.0,0.0,1.0
+643,Architecture,Intended college major,2002-01-01,483.0,514.0,0.0,2.0
+644,Arts: Visual/Performing,Intended college major,2002-01-01,514.0,500.0,0.0,8.0
+645,Biological and Biomedical Sciences,Intended college major,2002-01-01,542.0,551.0,0.0,5.0
+646,Business and Commerce,Intended college major,2002-01-01,486.0,510.0,0.0,14.0
+647,Communications and Journalism,Intended college major,2002-01-01,524.0,505.0,0.0,4.0
+648,Computer and Information sciences,Intended college major,2002-01-01,499.0,535.0,0.0,7.0
+649,Education,Intended college major,2002-01-01,480.0,481.0,0.0,9.0
+650,Engineering,Intended college major,2002-01-01,521.0,573.0,0.0,9.0
+651,Foreign languages and literatures,Intended college major,2002-01-01,562.0,543.0,0.0,1.0
+652,General/Interdisciplinary,Intended college major,2002-01-01,548.0,535.0,0.0,0.0
+653,Health And Allied Services,Intended college major,2002-01-01,490.0,500.0,0.0,15.0
+654,Home Economics,Intended college major,2002-01-01,456.0,458.0,0.0,0.0
+655,Language And Literature,Intended college major,2002-01-01,604.0,550.0,0.0,1.0
+656,Library And Archival Sciences,Intended college major,2002-01-01,561.0,499.0,0.0,0.0
+657,Mathematics,Intended college major,2002-01-01,542.0,625.0,0.0,1.0
+658,Military Sciences,Intended college major,2002-01-01,507.0,513.0,0.0,1.0
+659,Philosophy And Religious Studies,Intended college major,2002-01-01,561.0,542.0,0.0,1.0
+660,Physical Sciences,Intended college major,2002-01-01,562.0,588.0,0.0,1.0
+661,Public Affairs And Services,Intended college major,2002-01-01,459.0,456.0,0.0,2.0
+662,Social Sciences,Intended college major,2002-01-01,529.0,512.0,0.0,10.0
+663,Technical And Vocational,Intended college major,2002-01-01,440.0,452.0,0.0,1.0
+664,Undecided,Intended college major,2002-01-01,515.0,528.0,0.0,7.0
+665,Certificate program,Degree-level goal,2002-01-01,439.0,456.0,0.0,1.0
+666,Associate's Degree,Degree-level goal,2002-01-01,414.0,416.0,0.0,1.0
+667,Bachelor's degree,Degree-level goal,2002-01-01,475.0,483.0,0.0,24.0
+668,Master's degree,Degree-level goal,2002-01-01,513.0,525.0,0.0,30.0
+669,Doctoral or related degree,Degree-level goal,2002-01-01,543.0,553.0,0.0,21.0
+670,Other,Degree-level goal,2002-01-01,437.0,452.0,0.0,1.0
+671,Undecided,Degree-level goal,2002-01-01,512.0,521.0,0.0,21.0
+672,"Less than $20,000",Family income,2002-01-01,417.0,442.0,0.0,4.0
+673,"Less than $20,000",Family income,2002-01-01,435.0,453.0,0.0,8.0
+674,"$20,000, to $40,000",Family income,2002-01-01,461.0,470.0,0.0,10.0
+675,"$20,000, to $40,000",Family income,2002-01-01,480.0,485.0,0.0,11.0
+676,"$40,000, to $60,000",Family income,2002-01-01,496.0,501.0,0.0,10.0
+677,"$40,000, to $60,000",Family income,2002-01-01,505.0,509.0,0.0,10.0
+678,"$60,000, to $80,000",Family income,2002-01-01,511.0,516.0,0.0,9.0
+679,"$60,000, to $80,000",Family income,2002-01-01,517.0,524.0,0.0,8.0
+680,"$80,000 to $100,000",Family income,2002-01-01,530.0,538.0,0.0,11.0
+681,"$100,000, to $150,000",Family income,2002-01-01,555.0,568.0,0.0,19.0
+682,No high school diploma,Highest level of parental education,2002-01-01,409.0,441.0,0.0,5.0
+683,High school diploma,Highest level of parental education,2002-01-01,469.0,476.0,0.0,32.0
+684,Associate's Degree,Highest level of parental education,2002-01-01,486.0,492.0,0.0,9.0
+685,Bachelor's degree,Highest level of parental education,2002-01-01,523.0,533.0,0.0,28.0
+686,Graduate degree,Highest level of parental education,2002-01-01,558.0,568.0,0.0,26.0
+687,All students,All students,2003-01-01,507.0,519.0,0.0,0.0
+688,Top decile,High school rank,2003-01-01,585.0,607.0,0.0,0.0
+689,Second decile,High school rank,2003-01-01,522.0,539.0,0.0,0.0
+690,Second quintile,High school rank,2003-01-01,486.0,494.0,0.0,0.0
+691,Third quintile,High school rank,2003-01-01,449.0,449.0,0.0,0.0
+692,Fourth quintile,High school rank,2003-01-01,420.0,417.0,0.0,0.0
+693,Fifth quintile,High school rank,2003-01-01,410.0,410.0,0.0,0.0
+694,A+ (97-100),High school grade point average,2003-01-01,607.0,625.0,0.0,0.0
+695,A (93-96),High school grade point average,2003-01-01,566.0,583.0,0.0,0.0
+696,A- (90-92),High school grade point average,2003-01-01,538.0,552.0,0.0,0.0
+697,B (80-89),High school grade point average,2003-01-01,480.0,485.0,0.0,0.0
+698,C (70-79),High school grade point average,2003-01-01,425.0,424.0,0.0,0.0
+699,"D, E, or F (below 70)",High school grade point average,2003-01-01,416.0,430.0,0.0,0.0
+700,Agriculture and Related Sciences,Intended college major,2003-01-01,484.0,482.0,0.0,0.0
+701,Architecture,Intended college major,2003-01-01,483.0,511.0,0.0,0.0
+702,Arts: Visual/Performing,Intended college major,2003-01-01,514.0,500.0,0.0,0.0
+703,Biological and Biomedical Sciences,Intended college major,2003-01-01,543.0,553.0,0.0,0.0
+704,Business and Commerce,Intended college major,2003-01-01,489.0,512.0,0.0,0.0
+705,Communications and Journalism,Intended college major,2003-01-01,524.0,506.0,0.0,0.0
+706,Computer and Information sciences,Intended college major,2003-01-01,503.0,535.0,0.0,0.0
+707,Education,Intended college major,2003-01-01,482.0,483.0,0.0,0.0
+708,Engineering,Intended college major,2003-01-01,525.0,574.0,0.0,0.0
+709,Foreign languages and literatures,Intended college major,2003-01-01,564.0,545.0,0.0,0.0
+710,General/Interdisciplinary,Intended college major,2003-01-01,547.0,539.0,0.0,0.0
+711,Health And Allied Services,Intended college major,2003-01-01,489.0,498.0,0.0,0.0
+712,Home Economics,Intended college major,2003-01-01,462.0,462.0,0.0,0.0
+713,Language And Literature,Intended college major,2003-01-01,603.0,550.0,0.0,0.0
+714,Library And Archival Sciences,Intended college major,2003-01-01,572.0,512.0,0.0,0.0
+715,Mathematics,Intended college major,2003-01-01,545.0,626.0,0.0,0.0
+716,Military Sciences,Intended college major,2003-01-01,513.0,516.0,0.0,0.0
+717,Philosophy And Religious Studies,Intended college major,2003-01-01,562.0,544.0,0.0,0.0
+718,Physical Sciences,Intended college major,2003-01-01,563.0,588.0,0.0,0.0
+719,Public Affairs And Services,Intended college major,2003-01-01,462.0,458.0,0.0,0.0
+720,Social Sciences,Intended college major,2003-01-01,531.0,514.0,0.0,0.0
+721,Technical And Vocational,Intended college major,2003-01-01,441.0,450.0,0.0,0.0
+722,Undecided,Intended college major,2003-01-01,516.0,528.0,0.0,0.0
+723,Certificate program,Degree-level goal,2003-01-01,441.0,456.0,0.0,0.0
+724,Associate's Degree,Degree-level goal,2003-01-01,417.0,416.0,0.0,0.0
+725,Bachelor's degree,Degree-level goal,2003-01-01,475.0,481.0,0.0,0.0
+726,Master's degree,Degree-level goal,2003-01-01,513.0,524.0,0.0,0.0
+727,Doctoral or related degree,Degree-level goal,2003-01-01,542.0,552.0,0.0,0.0
+728,Other,Degree-level goal,2003-01-01,441.0,453.0,0.0,0.0
+729,Undecided,Degree-level goal,2003-01-01,514.0,523.0,0.0,0.0
+730,"Less than $20,000",Family income,2003-01-01,420.0,444.0,0.0,0.0
+731,"Less than $20,000",Family income,2003-01-01,437.0,452.0,0.0,0.0
+732,"$20,000, to $40,000",Family income,2003-01-01,460.0,467.0,0.0,0.0
+733,"$20,000, to $40,000",Family income,2003-01-01,480.0,484.0,0.0,0.0
+734,"$40,000, to $60,000",Family income,2003-01-01,495.0,498.0,0.0,0.0
+735,"$40,000, to $60,000",Family income,2003-01-01,504.0,508.0,0.0,0.0
+736,"$60,000, to $80,000",Family income,2003-01-01,511.0,514.0,0.0,0.0
+737,"$60,000, to $80,000",Family income,2003-01-01,518.0,523.0,0.0,0.0
+738,"$80,000 to $100,000",Family income,2003-01-01,529.0,536.0,0.0,0.0
+739,"$100,000, to $150,000",Family income,2003-01-01,555.0,568.0,0.0,0.0
+740,No high school diploma,Highest level of parental education,2003-01-01,413.0,443.0,0.0,0.0
+741,High school diploma,Highest level of parental education,2003-01-01,470.0,475.0,0.0,0.0
+742,Associate's Degree,Highest level of parental education,2003-01-01,487.0,491.0,0.0,0.0
+743,Bachelor's degree,Highest level of parental education,2003-01-01,525.0,534.0,0.0,0.0
+744,Graduate degree,Highest level of parental education,2003-01-01,559.0,569.0,0.0,0.0
+745,All students,All students,2017-01-01,533.0,527.0,0.0,100.0
+746,A+ (97-100),High school grade point average,2017-01-01,626.0,628.0,0.0,6.105051586114914
+747,A (93-96),High school grade point average,2017-01-01,595.0,592.0,0.0,17.50681004336393
+748,A- (90-92),High school grade point average,2017-01-01,564.0,558.0,0.0,17.28897026548239
+749,B (80-89),High school grade point average,2017-01-01,508.0,497.0,0.0,41.421560483619466
+750,C (70-79),High school grade point average,2017-01-01,456.0,444.0,0.0,9.973645875413368
+751,"D, E, or F (below 70)",High school grade point average,2017-01-01,429.0,421.0,0.0,0.6304354288972015
+752,No response,High school grade point average,2017-01-01,489.0,498.0,0.0,7.073526317108729
+753,Agriculture and Related Sciences,Intended college major,2017-01-01,508.0,495.0,0.0,1.155590863194557
+754,Architecture,Intended college major,2017-01-01,524.0,531.0,0.0,1.390987740285365
+755,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2017-01-01,561.0,523.0,0.0,0.1178006369001467
+756,Biological and Biomedical Sciences,Intended college major,2017-01-01,571.0,561.0,0.0,7.310793372641092
+757,Business and Commerce,Intended college major,2017-01-01,536.0,537.0,0.0,11.367999923691894
+758,Communications and Journalism,Intended college major,2017-01-01,552.0,519.0,0.0,2.054323194802328
+759,Computer and Information sciences,Intended college major,2017-01-01,568.0,575.0,0.0,3.783860018232186
+760,Construction Trades,Intended college major,2017-01-01,479.0,479.0,0.0,0.0673146496572267
+761,Education,Intended college major,2017-01-01,525.0,507.0,0.0,3.859554932978319
+762,Engineering,Intended college major,2017-01-01,560.0,580.0,0.0,10.634283868875425
+763,Engineering Technologies,Intended college major,2017-01-01,516.0,532.0,0.0,1.658679297474883
+764,English Language and Literature,Intended college major,2017-01-01,591.0,533.0,0.0,1.0039966369928066
+765,Family and Consumer Sciences,Intended college major,2017-01-01,493.0,476.0,0.0,0.2898345340504478
+766,Foreign languages and literatures,Intended college major,2017-01-01,575.0,541.0,0.0,0.4990005000906158
+767,Health And Allied Services,Intended college major,2017-01-01,529.0,516.0,0.0,18.92216164509373
+768,History,Intended college major,2017-01-01,562.0,524.0,0.0,0.7201577397539336
+769,Legal Professions And Studies,Intended college major,2017-01-01,555.0,530.0,0.0,1.984964578050246
+770,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2017-01-01,575.0,541.0,0.0,0.539811709751222
+771,Library Science/Librarianship,Intended college major,2017-01-01,585.0,533.0,0.0,0.0
+772,Mathematics,Intended college major,2017-01-01,592.0,636.0,0.0,0.7322171456135785
+773,Mechanic And Repair Technologies Technician,Intended college major,2017-01-01,466.0,470.0,0.0,0.2267440830559215
+774,Military Technologies,Intended college major,2017-01-01,498.0,488.0,0.0,0.4973653264147318
+775,Multi/Interdisciplinary Studies,Intended college major,2017-01-01,586.0,575.0,0.0,0.1701261945284363
+776,Natural Resources And Conservation,Intended college major,2017-01-01,558.0,537.0,0.0,0.562022818848647
+777,"Parks, Recreation, And Leisure Studies",Intended college major,2017-01-01,484.0,482.0,0.0,0.8596925600960392
+778,Personal And Culinary Services,Intended college major,2017-01-01,485.0,468.0,0.0,0.3809273342444884
+779,Philosophy And Religious Studies,Intended college major,2017-01-01,566.0,535.0,0.0,0.1943131384842212
+780,Physical Sciences,Intended college major,2017-01-01,591.0,595.0,0.0,1.4593243734900194
+781,Precision Production,Intended college major,2017-01-01,488.0,486.0,0.0,0.0
+782,Psychology,Intended college major,2017-01-01,542.0,513.0,0.0,4.370955500111055
+783,Public Administration And Social Services,Intended college major,2017-01-01,511.0,485.0,0.0,0.4314133214874085
+784,Security And Protective Services,Intended college major,2017-01-01,493.0,480.0,0.0,3.766281901216433
+785,Social Sciences,Intended college major,2017-01-01,588.0,559.0,0.0,1.8578979569867564
+786,Theology And Religious Vocations,Intended college major,2017-01-01,568.0,535.0,0.0,0.1349699604969292
+787,Transportation And Materials Moving,Intended college major,2017-01-01,513.0,512.0,0.0,0.0
+788,"Visual And Performing Arts, General",Intended college major,2017-01-01,537.0,509.0,0.0,7.222289597433868
+789,Other,Intended college major,2017-01-01,487.0,476.0,0.0,1.7869041665587906
+790,Undecided,Intended college major,2017-01-01,542.0,531.0,0.0,7.920372492563367
+791,Certificate program,Degree-level goal,2017-01-01,466.0,460.0,0.0,0.9413568324115188
+792,Associate's Degree,Degree-level goal,2017-01-01,457.0,444.0,0.0,1.5875360356061328
+793,Bachelor's degree,Degree-level goal,2017-01-01,524.0,513.0,0.0,27.42447861041552
+794,Master's degree,Degree-level goal,2017-01-01,555.0,549.0,0.0,32.91128310238732
+795,Doctoral or related degree,Degree-level goal,2017-01-01,573.0,565.0,0.0,23.1354272236033
+796,Other,Degree-level goal,2017-01-01,458.0,460.0,0.0,0.663070301812877
+797,Undecided,Degree-level goal,2017-01-01,537.0,527.0,0.0,13.33684789376332
+798,All students,All students,2001-01-01,506.0,514.0,0.0,100.0
+799,Top decile,High school rank,2001-01-01,588.0,607.0,0.0,24.0
+800,Second decile,High school rank,2001-01-01,526.0,540.0,0.0,23.0
+801,Second quintile,High school rank,2001-01-01,490.0,497.0,0.0,26.0
+802,Third quintile,High school rank,2001-01-01,454.0,452.0,0.0,22.0
+803,Fourth quintile,High school rank,2001-01-01,423.0,417.0,0.0,4.0
+804,Fifth quintile,High school rank,2001-01-01,407.0,401.0,0.0,1.0
+805,A+ (97-100),High school grade point average,2001-01-01,609.0,626.0,0.0,7.0
+806,A (93-96),High school grade point average,2001-01-01,566.0,581.0,0.0,17.0
+807,A- (90-92),High school grade point average,2001-01-01,540.0,552.0,0.0,17.0
+808,B (80-89),High school grade point average,2001-01-01,482.0,486.0,0.0,47.0
+809,C (70-79),High school grade point average,2001-01-01,428.0,425.0,0.0,12.0
+810,"D, E, or F (below 70)",High school grade point average,2001-01-01,403.0,404.0,0.0,0.0
+811,Agriculture and Related Sciences,Intended college major,2001-01-01,487.0,484.0,0.0,1.0
+812,Architecture,Intended college major,2001-01-01,493.0,521.0,0.0,2.0
+813,Arts: Visual/Performing,Intended college major,2001-01-01,518.0,501.0,0.0,8.0
+814,Biological and Biomedical Sciences,Intended college major,2001-01-01,545.0,549.0,0.0,5.0
+815,Business and Commerce,Intended college major,2001-01-01,489.0,511.0,0.0,14.0
+816,Communications and Journalism,Intended college major,2001-01-01,527.0,506.0,0.0,4.0
+817,Computer and Information sciences,Intended college major,2001-01-01,501.0,533.0,0.0,7.0
+818,Education,Intended college major,2001-01-01,483.0,481.0,0.0,9.0
+819,Engineering,Intended college major,2001-01-01,523.0,572.0,0.0,9.0
+820,Foreign languages and literatures,Intended college major,2001-01-01,557.0,540.0,0.0,1.0
+821,General/Interdisciplinary,Intended college major,2001-01-01,554.0,539.0,0.0,0.0
+822,Health And Allied Services,Intended college major,2001-01-01,494.0,502.0,0.0,15.0
+823,Home Economics,Intended college major,2001-01-01,459.0,458.0,0.0,0.0
+824,Language And Literature,Intended college major,2001-01-01,606.0,549.0,0.0,1.0
+825,Library And Archival Sciences,Intended college major,2001-01-01,574.0,504.0,0.0,0.0
+826,Mathematics,Intended college major,2001-01-01,549.0,625.0,0.0,1.0
+827,Military Sciences,Intended college major,2001-01-01,507.0,511.0,0.0,0.0
+828,Philosophy And Religious Studies,Intended college major,2001-01-01,561.0,539.0,0.0,1.0
+829,Physical Sciences,Intended college major,2001-01-01,568.0,588.0,0.0,1.0
+830,Public Affairs And Services,Intended college major,2001-01-01,461.0,455.0,0.0,2.0
+831,Social Sciences,Intended college major,2001-01-01,531.0,512.0,0.0,10.0
+832,Technical And Vocational,Intended college major,2001-01-01,444.0,451.0,0.0,1.0
+833,Undecided,Intended college major,2001-01-01,515.0,524.0,0.0,7.0
+834,Certificate program,Degree-level goal,2001-01-01,443.0,455.0,0.0,1.0
+835,Associate's Degree,Degree-level goal,2001-01-01,419.0,416.0,0.0,2.0
+836,Bachelor's degree,Degree-level goal,2001-01-01,478.0,483.0,0.0,25.0
+837,Master's degree,Degree-level goal,2001-01-01,516.0,526.0,0.0,31.0
+838,Doctoral or related degree,Degree-level goal,2001-01-01,547.0,554.0,0.0,21.0
+839,Other,Degree-level goal,2001-01-01,438.0,449.0,0.0,1.0
+840,Undecided,Degree-level goal,2001-01-01,511.0,517.0,0.0,19.0
+841,"Less than $20,000",Family income,2001-01-01,421.0,443.0,0.0,4.0
+842,"Less than $20,000",Family income,2001-01-01,442.0,456.0,0.0,8.0
+843,"$20,000, to $40,000",Family income,2001-01-01,468.0,474.0,0.0,10.0
+844,"$20,000, to $40,000",Family income,2001-01-01,487.0,489.0,0.0,12.0
+845,"$40,000, to $60,000",Family income,2001-01-01,501.0,503.0,0.0,10.0
+846,"$40,000, to $60,000",Family income,2001-01-01,509.0,512.0,0.0,10.0
+847,"$60,000, to $80,000",Family income,2001-01-01,516.0,519.0,0.0,9.0
+848,"$60,000, to $80,000",Family income,2001-01-01,522.0,527.0,0.0,8.0
+849,"$80,000 to $100,000",Family income,2001-01-01,534.0,540.0,0.0,11.0
+850,"$100,000, to $150,000",Family income,2001-01-01,557.0,569.0,0.0,18.0
+851,No high school diploma,Highest level of parental education,2001-01-01,411.0,438.0,0.0,4.0
+852,High school diploma,Highest level of parental education,2001-01-01,472.0,476.0,0.0,32.0
+853,Associate's Degree,Highest level of parental education,2001-01-01,489.0,491.0,0.0,9.0
+854,Bachelor's degree,Highest level of parental education,2001-01-01,525.0,533.0,0.0,29.0
+855,Graduate degree,Highest level of parental education,2001-01-01,559.0,567.0,0.0,26.0
+856,All students,All students,2015-01-01,495.0,511.0,484.0,100.0
+857,Top decile,High school rank,2015-01-01,574.0,605.0,568.0,35.0
+858,Second decile,High school rank,2015-01-01,511.0,532.0,499.0,26.0
+859,Second quintile,High school rank,2015-01-01,482.0,494.0,467.0,18.0
+860,Bottom three quintiles ,High school rank,2015-01-01,438.0,443.0,423.0,21.0
+861,A+ (97-100),High school grade point average,2015-01-01,592.0,617.0,587.0,7.0
+862,A (93-96),High school grade point average,2015-01-01,558.0,578.0,551.0,21.0
+863,A- (90-92),High school grade point average,2015-01-01,523.0,540.0,513.0,20.0
+864,B (80-89),High school grade point average,2015-01-01,463.0,472.0,450.0,43.0
+865,C (70-79),High school grade point average,2015-01-01,407.0,412.0,393.0,9.0
+866,"D, E, or F (below 70)",High school grade point average,2015-01-01,386.0,404.0,372.0,0.0
+867,Public,High school type,2015-01-01,489.0,498.0,475.0,84.0
+868,"Private, religiously affiliated",High school type,2015-01-01,533.0,536.0,527.0,9.0
+869,"Private, independent",High school type,2015-01-01,532.0,579.0,538.0,7.0
+870,Agriculture and Related Sciences,Intended college major,2015-01-01,470.0,474.0,455.0,1.0
+871,Architecture,Intended college major,2015-01-01,482.0,522.0,474.0,1.0
+872,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2015-01-01,537.0,505.0,521.0,0.0
+873,Arts: Visual/Performing,Intended college major,2015-01-01,503.0,490.0,490.0,7.0
+874,Biological and Biomedical Sciences,Intended college major,2015-01-01,537.0,549.0,527.0,7.0
+875,Business and Commerce,Intended college major,2015-01-01,494.0,520.0,486.0,12.0
+876,Communications and journalism,Intended college major,2015-01-01,516.0,496.0,509.0,3.0
+877,Computer and Information sciences,Intended college major,2015-01-01,530.0,559.0,505.0,3.0
+878,Construction Trades,Intended college major,2015-01-01,429.0,450.0,403.0,0.0
+879,Education,Intended college major,2015-01-01,481.0,480.0,473.0,4.0
+880,Engineering,Intended college major,2015-01-01,526.0,575.0,509.0,11.0
+881,Engineering Technologies,Intended college major,2015-01-01,475.0,523.0,458.0,1.0
+882,English Language and Literature,Intended college major,2015-01-01,573.0,519.0,557.0,1.0
+883,Family and Consumer Sciences,Intended college major,2015-01-01,450.0,451.0,445.0,0.0
+884,Foreign languages and literatures,Intended college major,2015-01-01,555.0,530.0,540.0,1.0
+885,General/Interdisciplinary,Intended college major,2015-01-01,,,,
+886,Health And Allied Services,Intended college major,2015-01-01,484.0,492.0,477.0,19.0
+887,History,Intended college major,2015-01-01,539.0,504.0,507.0,1.0
+888,Legal Professions And Studies,Intended college major,2015-01-01,520.0,509.0,505.0,2.0
+889,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2015-01-01,549.0,530.0,538.0,1.0
+890,Library Science And Administration,Intended college major,2015-01-01,550.0,502.0,511.0,0.0
+891,Mathematics,Intended college major,2015-01-01,541.0,616.0,538.0,1.0
+892,Mechanic And Repair Technologies Technician,Intended college major,2015-01-01,416.0,441.0,396.0,0.0
+893,Military Technologies,Intended college major,2015-01-01,483.0,490.0,455.0,1.0
+894,Multi/Interdisciplinary Studies,Intended college major,2015-01-01,579.0,585.0,567.0,1.0
+895,Natural Resources And Conservation,Intended college major,2015-01-01,523.0,519.0,502.0,0.0
+896,"Parks, Recreation, And Leisure Studies",Intended college major,2015-01-01,436.0,455.0,427.0,1.0
+897,Personal And Culinary Services,Intended college major,2015-01-01,444.0,440.0,426.0,0.0
+898,Philosophy And Religious Studies,Intended college major,2015-01-01,542.0,523.0,518.0,0.0
+899,Physical Sciences,Intended college major,2015-01-01,559.0,584.0,539.0,1.0
+900,Precision Production,Intended college major,2015-01-01,461.0,467.0,419.0,0.0
+901,Psychology,Intended college major,2015-01-01,500.0,484.0,489.0,5.0
+902,Public Administration And Social Services,Intended college major,2015-01-01,466.0,455.0,458.0,0.0
+903,Security And Protective Services,Intended college major,2015-01-01,445.0,448.0,432.0,3.0
+904,Social Sciences,Intended college major,2015-01-01,,,,
+905,Social Sciences,Intended college major,2015-01-01,560.0,545.0,544.0,2.0
+906,Technical And Vocational,Intended college major,2015-01-01,,,,
+907,Theology And Religious Vocations,Intended college major,2015-01-01,533.0,515.0,509.0,0.0
+908,Transportation And Materials Moving,Intended college major,2015-01-01,463.0,481.0,441.0,0.0
+909,Other,Intended college major,2015-01-01,450.0,456.0,439.0,2.0
+910,Undecided,Intended college major,2015-01-01,532.0,543.0,520.0,7.0
+911,Certificate program,Degree-level goal,2015-01-01,435.0,454.0,424.0,1.0
+912,Associate's Degree,Degree-level goal,2015-01-01,408.0,409.0,395.0,1.0
+913,Bachelor's degree,Degree-level goal,2015-01-01,482.0,490.0,468.0,31.0
+914,Master's degree,Degree-level goal,2015-01-01,510.0,525.0,499.0,31.0
+915,Doctoral or related degree,Degree-level goal,2015-01-01,535.0,547.0,525.0,21.0
+916,Other,Degree-level goal,2015-01-01,408.0,437.0,405.0,1.0
+917,Undecided,Degree-level goal,2015-01-01,504.0,517.0,492.0,14.0
+918,"Less than $20,000",Family income,2015-01-01,433.0,455.0,426.0,14.0
+919,"$20,000, to $40,000",Family income,2015-01-01,466.0,479.0,454.0,16.0
+920,"$40,000, to $60,000",Family income,2015-01-01,488.0,497.0,473.0,14.0
+921,"$60,000, to $80,000",Family income,2015-01-01,503.0,510.0,487.0,12.0
+922,"$80,000 to $100,000",Family income,2015-01-01,517.0,526.0,501.0,11.0
+923,"$100,000, to $150,000",Family income,2015-01-01,528.0,539.0,514.0,10.0
+924,"$100,000, to $150,000",Family income,2015-01-01,531.0,542.0,518.0,5.0
+925,"$100,000, to $150,000",Family income,2015-01-01,539.0,551.0,526.0,4.0
+926,"$150,000, to $200,000",Family income,2015-01-01,545.0,557.0,534.0,5.0
+927,"More than $200,000",Family income,2015-01-01,570.0,587.0,563.0,8.0
+928,No high school diploma,Highest level of parental education,2015-01-01,420.0,443.0,415.0,7.0
+929,High school diploma,Highest level of parental education,2015-01-01,461.0,471.0,448.0,29.0
+930,Associate's Degree,Highest level of parental education,2015-01-01,479.0,483.0,462.0,8.0
+931,Bachelor's degree,Highest level of parental education,2015-01-01,521.0,537.0,509.0,31.0
+932,Graduate degree,Highest level of parental education,2015-01-01,560.0,575.0,550.0,25.0
+933,All students,All students,2014-01-01,497.0,513.0,487.0,100.0
+934,Top decile,High school rank,2014-01-01,575.0,606.0,569.0,35.0
+935,Second decile,High school rank,2014-01-01,511.0,534.0,500.0,27.0
+936,Second quintile,High school rank,2014-01-01,483.0,497.0,469.0,18.0
+937,Bottom three quintiles ,High school rank,2014-01-01,439.0,445.0,424.0,20.0
+938,A+ (97-100),High school grade point average,2014-01-01,595.0,619.0,591.0,7.0
+939,A (93-96),High school grade point average,2014-01-01,559.0,580.0,552.0,21.0
+940,A- (90-92),High school grade point average,2014-01-01,524.0,543.0,515.0,20.0
+941,B (80-89),High school grade point average,2014-01-01,465.0,474.0,452.0,43.0
+942,C (70-79),High school grade point average,2014-01-01,410.0,413.0,395.0,9.0
+943,"D, E, or F (below 70)",High school grade point average,2014-01-01,385.0,401.0,372.0,0.0
+944,Public,High school type,2014-01-01,492.0,501.0,478.0,84.0
+945,"Private, religiously affiliated",High school type,2014-01-01,533.0,537.0,527.0,9.0
+946,"Private, independent",High school type,2014-01-01,535.0,580.0,542.0,7.0
+947,Agriculture and Related Sciences,Intended college major,2014-01-01,471.0,475.0,455.0,1.0
+948,Architecture,Intended college major,2014-01-01,486.0,526.0,478.0,2.0
+949,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2014-01-01,530.0,505.0,515.0,0.0
+950,Arts: Visual/Performing,Intended college major,2014-01-01,505.0,493.0,491.0,7.0
+951,Biological and Biomedical Sciences,Intended college major,2014-01-01,538.0,551.0,529.0,7.0
+952,Business and Commerce,Intended college major,2014-01-01,493.0,522.0,486.0,12.0
+953,Communications and journalism,Intended college major,2014-01-01,516.0,498.0,510.0,3.0
+954,Computer and Information sciences,Intended college major,2014-01-01,525.0,554.0,500.0,3.0
+955,Construction Trades,Intended college major,2014-01-01,427.0,447.0,402.0,0.0
+956,Education,Intended college major,2014-01-01,482.0,482.0,474.0,4.0
+957,Engineering,Intended college major,2014-01-01,528.0,579.0,513.0,10.0
+958,Engineering Technologies,Intended college major,2014-01-01,475.0,526.0,460.0,1.0
+959,English Language and Literature,Intended college major,2014-01-01,577.0,522.0,560.0,1.0
+960,Family and Consumer Sciences,Intended college major,2014-01-01,449.0,450.0,443.0,0.0
+961,Foreign languages and literatures,Intended college major,2014-01-01,557.0,533.0,543.0,1.0
+962,General/Interdisciplinary,Intended college major,2014-01-01,,,,
+963,Health And Allied Services,Intended college major,2014-01-01,485.0,495.0,479.0,19.0
+964,History,Intended college major,2014-01-01,539.0,506.0,505.0,1.0
+965,Legal Professions And Studies,Intended college major,2014-01-01,519.0,510.0,504.0,2.0
+966,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2014-01-01,548.0,530.0,536.0,1.0
+967,Library Science And Administration,Intended college major,2014-01-01,562.0,507.0,518.0,0.0
+968,Mathematics,Intended college major,2014-01-01,535.0,613.0,533.0,1.0
+969,Mechanic And Repair Technologies Technician,Intended college major,2014-01-01,417.0,442.0,395.0,0.0
+970,Military Technologies,Intended college major,2014-01-01,483.0,489.0,455.0,1.0
+971,Multi/Interdisciplinary Studies,Intended college major,2014-01-01,585.0,589.0,574.0,1.0
+972,Natural Resources And Conservation,Intended college major,2014-01-01,522.0,518.0,499.0,0.0
+973,"Parks, Recreation, And Leisure Studies",Intended college major,2014-01-01,435.0,458.0,426.0,1.0
+974,Personal And Culinary Services,Intended college major,2014-01-01,445.0,442.0,427.0,0.0
+975,Philosophy And Religious Studies,Intended college major,2014-01-01,545.0,525.0,520.0,0.0
+976,Physical Sciences,Intended college major,2014-01-01,558.0,585.0,540.0,2.0
+977,Precision Production,Intended college major,2014-01-01,456.0,459.0,417.0,0.0
+978,Psychology,Intended college major,2014-01-01,503.0,489.0,492.0,5.0
+979,Public Administration And Social Services,Intended college major,2014-01-01,463.0,453.0,456.0,0.0
+980,Security And Protective Services,Intended college major,2014-01-01,445.0,449.0,432.0,3.0
+981,Social Sciences,Intended college major,2014-01-01,,,,
+982,Social Sciences,Intended college major,2014-01-01,565.0,550.0,548.0,2.0
+983,Technical And Vocational,Intended college major,2014-01-01,,,,
+984,Theology And Religious Vocations,Intended college major,2014-01-01,533.0,515.0,510.0,0.0
+985,Transportation And Materials Moving,Intended college major,2014-01-01,459.0,488.0,439.0,0.0
+986,Other,Intended college major,2014-01-01,451.0,458.0,440.0,2.0
+987,Undecided,Intended college major,2014-01-01,533.0,545.0,522.0,7.0
+988,Certificate program,Degree-level goal,2014-01-01,438.0,456.0,427.0,1.0
+989,Associate's Degree,Degree-level goal,2014-01-01,409.0,410.0,395.0,1.0
+990,Bachelor's degree,Degree-level goal,2014-01-01,482.0,491.0,467.0,30.0
+991,Master's degree,Degree-level goal,2014-01-01,510.0,527.0,501.0,30.0
+992,Doctoral or related degree,Degree-level goal,2014-01-01,537.0,550.0,528.0,22.0
+993,Other,Degree-level goal,2014-01-01,406.0,436.0,405.0,1.0
+994,Undecided,Degree-level goal,2014-01-01,506.0,520.0,495.0,15.0
+995,"Less than $20,000",Family income,2014-01-01,436.0,459.0,429.0,13.0
+996,"$20,000, to $40,000",Family income,2014-01-01,467.0,481.0,455.0,16.0
+997,"$40,000, to $60,000",Family income,2014-01-01,489.0,500.0,474.0,14.0
+998,"$60,000, to $80,000",Family income,2014-01-01,504.0,512.0,487.0,13.0
+999,"$80,000 to $100,000",Family income,2014-01-01,516.0,526.0,501.0,11.0
+1000,"$100,000, to $150,000",Family income,2014-01-01,527.0,539.0,513.0,10.0
+1001,"$100,000, to $150,000",Family income,2014-01-01,531.0,542.0,518.0,5.0
+1002,"$100,000, to $150,000",Family income,2014-01-01,539.0,552.0,527.0,4.0
+1003,"$150,000, to $200,000",Family income,2014-01-01,544.0,558.0,534.0,5.0
+1004,"More than $200,000",Family income,2014-01-01,569.0,588.0,565.0,8.0
+1005,No high school diploma,Highest level of parental education,2014-01-01,421.0,447.0,418.0,7.0
+1006,High school diploma,Highest level of parental education,2014-01-01,462.0,473.0,450.0,29.0
+1007,Associate's Degree,Highest level of parental education,2014-01-01,480.0,485.0,463.0,8.0
+1008,Bachelor's degree,Highest level of parental education,2014-01-01,523.0,539.0,512.0,32.0
+1009,Graduate degree,Highest level of parental education,2014-01-01,560.0,575.0,551.0,25.0
+1010,All students,All students,2000-01-01,505.0,514.0,0.0,100.0
+1011,Top decile,High school rank,2000-01-01,589.0,608.0,0.0,22.0
+1012,Second decile,High school rank,2000-01-01,528.0,543.0,0.0,23.0
+1013,Second quintile,High school rank,2000-01-01,493.0,500.0,0.0,27.0
+1014,Third quintile,High school rank,2000-01-01,455.0,453.0,0.0,23.0
+1015,Fourth quintile,High school rank,2000-01-01,425.0,419.0,0.0,4.0
+1016,Fifth quintile,High school rank,2000-01-01,408.0,401.0,0.0,1.0
+1017,A+ (97-100),High school grade point average,2000-01-01,610.0,628.0,0.0,7.0
+1018,A (93-96),High school grade point average,2000-01-01,567.0,582.0,0.0,16.0
+1019,A- (90-92),High school grade point average,2000-01-01,540.0,553.0,0.0,17.0
+1020,B (80-89),High school grade point average,2000-01-01,482.0,486.0,0.0,47.0
+1021,C (70-79),High school grade point average,2000-01-01,428.0,426.0,0.0,12.0
+1022,"D, E, or F (below 70)",High school grade point average,2000-01-01,405.0,406.0,0.0,0.0
+1023,Agriculture and Related Sciences,Intended college major,2000-01-01,490.0,486.0,0.0,1.0
+1024,Architecture,Intended college major,2000-01-01,494.0,524.0,0.0,2.0
+1025,Arts: Visual/Performing,Intended college major,2000-01-01,518.0,502.0,0.0,8.0
+1026,Biological and Biomedical Sciences,Intended college major,2000-01-01,544.0,548.0,0.0,5.0
+1027,Business and Commerce,Intended college major,2000-01-01,487.0,510.0,0.0,14.0
+1028,Communications and Journalism,Intended college major,2000-01-01,526.0,505.0,0.0,4.0
+1029,Computer and Information sciences,Intended college major,2000-01-01,499.0,533.0,0.0,6.0
+1030,Education,Intended college major,2000-01-01,483.0,481.0,0.0,9.0
+1031,Engineering,Intended college major,2000-01-01,523.0,573.0,0.0,8.0
+1032,Foreign languages and literatures,Intended college major,2000-01-01,558.0,539.0,0.0,1.0
+1033,General/Interdisciplinary,Intended college major,2000-01-01,562.0,545.0,0.0,0.0
+1034,Health And Allied Services,Intended college major,2000-01-01,497.0,505.0,0.0,16.0
+1035,Home Economics,Intended college major,2000-01-01,462.0,462.0,0.0,0.0
+1036,Language And Literature,Intended college major,2000-01-01,608.0,552.0,0.0,1.0
+1037,Library And Archival Sciences,Intended college major,2000-01-01,556.0,511.0,0.0,0.0
+1038,Mathematics,Intended college major,2000-01-01,551.0,630.0,0.0,1.0
+1039,Military Sciences,Intended college major,2000-01-01,505.0,512.0,0.0,0.0
+1040,Philosophy And Religious Studies,Intended college major,2000-01-01,560.0,539.0,0.0,1.0
+1041,Physical Sciences,Intended college major,2000-01-01,569.0,592.0,0.0,1.0
+1042,Public Affairs And Services,Intended college major,2000-01-01,459.0,454.0,0.0,3.0
+1043,Social Sciences,Intended college major,2000-01-01,532.0,513.0,0.0,11.0
+1044,Technical And Vocational,Intended college major,2000-01-01,442.0,452.0,0.0,1.0
+1045,Undecided,Intended college major,2000-01-01,512.0,521.0,0.0,7.0
+1046,Certificate program,Degree-level goal,2000-01-01,439.0,453.0,0.0,1.0
+1047,Associate's Degree,Degree-level goal,2000-01-01,420.0,419.0,0.0,2.0
+1048,Bachelor's degree,Degree-level goal,2000-01-01,478.0,483.0,0.0,25.0
+1049,Master's degree,Degree-level goal,2000-01-01,515.0,526.0,0.0,31.0
+1050,Doctoral or related degree,Degree-level goal,2000-01-01,547.0,554.0,0.0,22.0
+1051,Other,Degree-level goal,2000-01-01,442.0,454.0,0.0,1.0
+1052,Undecided,Degree-level goal,2000-01-01,508.0,514.0,0.0,19.0
+1053,"Less than $20,000",Family income,2000-01-01,425.0,447.0,0.0,4.0
+1054,"Less than $20,000",Family income,2000-01-01,447.0,460.0,0.0,8.0
+1055,"$20,000, to $40,000",Family income,2000-01-01,471.0,478.0,0.0,10.0
+1056,"$20,000, to $40,000",Family income,2000-01-01,490.0,493.0,0.0,12.0
+1057,"$40,000, to $60,000",Family income,2000-01-01,503.0,505.0,0.0,10.0
+1058,"$40,000, to $60,000",Family income,2000-01-01,511.0,515.0,0.0,11.0
+1059,"$60,000, to $80,000",Family income,2000-01-01,517.0,522.0,0.0,9.0
+1060,"$60,000, to $80,000",Family income,2000-01-01,524.0,530.0,0.0,8.0
+1061,"$80,000 to $100,000",Family income,2000-01-01,536.0,543.0,0.0,10.0
+1062,"$100,000, to $150,000",Family income,2000-01-01,558.0,571.0,0.0,16.0
+1063,No high school diploma,Highest level of parental education,2000-01-01,413.0,442.0,0.0,4.0
+1064,High school diploma,Highest level of parental education,2000-01-01,472.0,477.0,0.0,33.0
+1065,Associate's Degree,Highest level of parental education,2000-01-01,488.0,491.0,0.0,9.0
+1066,Bachelor's degree,Highest level of parental education,2000-01-01,525.0,533.0,0.0,29.0
+1067,Graduate degree,Highest level of parental education,2000-01-01,558.0,566.0,0.0,25.0
+1068,All students,All students,2019-01-01,531.0,528.0,0.0,100.0
+1069,Certificate program,Degree-level goal,2019-01-01,453.0,447.0,0.0,1.2071010791149177
+1070,Associate's Degree,Degree-level goal,2019-01-01,449.0,434.0,0.0,2.060258955131209
+1071,Bachelor's degree,Degree-level goal,2019-01-01,524.0,515.0,0.0,27.981169622537543
+1072,Master's degree,Degree-level goal,2019-01-01,560.0,558.0,0.0,31.458511828579667
+1073,Doctoral or related degree,Degree-level goal,2019-01-01,580.0,578.0,0.0,22.214428926495007
+1074,Other,Degree-level goal,2019-01-01,452.0,452.0,0.0,0.737402473733508
+1075,Undecided,Degree-level goal,2019-01-01,530.0,524.0,0.0,14.341127114408147
+1076,Agriculture and Related Sciences,Intended college major,2019-01-01,496.0,481.0,0.0,1.3547102731878515
+1077,Architecture,Intended college major,2019-01-01,520.0,527.0,0.0,1.576299177103096
+1078,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2019-01-01,536.0,504.0,0.0,0.1429588290535407
+1079,Biological and Biomedical Sciences,Intended college major,2019-01-01,572.0,566.0,0.0,8.473885951589757
+1080,Business and Commerce,Intended college major,2019-01-01,534.0,537.0,0.0,12.045899082703505
+1081,Communications and Journalism,Intended college major,2019-01-01,550.0,519.0,0.0,1.97564860295673
+1082,Computer and Information sciences,Intended college major,2019-01-01,571.0,585.0,0.0,4.335855912291033
+1083,Construction Trades,Intended college major,2019-01-01,459.0,460.0,0.0,0.1359441128314385
+1084,Education,Intended college major,2019-01-01,519.0,503.0,0.0,3.9087738874197866
+1085,Engineering,Intended college major,2019-01-01,559.0,581.0,0.0,10.556169116651468
+1086,Engineering Technologies,Intended college major,2019-01-01,512.0,528.0,0.0,1.8268169882288712
+1087,English Language and Literature,Intended college major,2019-01-01,585.0,533.0,0.0,0.8827123134370967
+1088,Family and Consumer Sciences,Intended college major,2019-01-01,484.0,469.0,0.0,0.3517689863626304
+1089,Foreign languages and literatures,Intended college major,2019-01-01,566.0,536.0,0.0,0.5402962820372693
+1090,Health And Allied Services,Intended college major,2019-01-01,529.0,518.0,0.0,18.00041435765591
+1091,History,Intended college major,2019-01-01,563.0,527.0,0.0,0.6857564827669086
+1092,Legal Professions And Studies,Intended college major,2019-01-01,564.0,540.0,0.0,1.9460671640046088
+1093,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2019-01-01,584.0,556.0,0.0,0.4682459022366069
+1094,Library Science/Librarianship,Intended college major,2019-01-01,577.0,527.0,0.0,0.0
+1095,Mathematics,Intended college major,2019-01-01,597.0,646.0,0.0,0.897666165848555
+1096,Mechanic And Repair Technologies Technician,Intended college major,2019-01-01,458.0,458.0,0.0,0.3584574367139371
+1097,Military Technologies,Intended college major,2019-01-01,498.0,486.0,0.0,0.4050047009474217
+1098,Multi/Interdisciplinary Studies,Intended college major,2019-01-01,581.0,574.0,0.0,0.1619910048499421
+1099,Natural Resources And Conservation,Intended college major,2019-01-01,562.0,543.0,0.0,0.5517699651602428
+1100,"Parks, Recreation, And Leisure Studies",Intended college major,2019-01-01,482.0,478.0,0.0,0.7090301148836509
+1101,Personal And Culinary Services,Intended college major,2019-01-01,474.0,456.0,0.0,0.3625901377440129
+1102,Philosophy And Religious Studies,Intended college major,2019-01-01,572.0,548.0,0.0,0.1838508181932375
+1103,Physical Sciences,Intended college major,2019-01-01,597.0,606.0,0.0,1.43111086459912
+1104,Precision Production,Intended college major,2019-01-01,466.0,466.0,0.0,0.0
+1105,Psychology,Intended college major,2019-01-01,546.0,518.0,0.0,4.112363790796149
+1106,Public Administration And Social Services,Intended college major,2019-01-01,513.0,488.0,0.0,0.4269732695809822
+1107,Security And Protective Services,Intended college major,2019-01-01,495.0,479.0,0.0,3.707304712203594
+1108,Social Sciences,Intended college major,2019-01-01,594.0,570.0,0.0,1.8138207310421852
+1109,Theology And Religious Vocations,Intended college major,2019-01-01,561.0,535.0,0.0,0.1082658914589576
+1110,Transportation And Materials Moving,Intended college major,2019-01-01,511.0,508.0,0.0,0.0600872978714958
+1111,"Visual And Performing Arts, General",Intended college major,2019-01-01,536.0,510.0,0.0,7.1040043154099175
+1112,Other,Intended college major,2019-01-01,488.0,476.0,0.0,1.4621061223246878
+1113,Undecided,Intended college major,2019-01-01,538.0,532.0,0.0,6.902643895483991
+1114,All students,All students,2018-01-01,536.0,531.0,0.0,100.0
+1115,Agriculture and Related Sciences,Intended college major,2018-01-01,507.0,493.0,0.0,1.2000017983448483
+1116,Architecture,Intended college major,2018-01-01,527.0,535.0,0.0,1.4160279732541163
+1117,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2018-01-01,547.0,513.0,0.0,0.1153750616776084
+1118,Biological and Biomedical Sciences,Intended college major,2018-01-01,579.0,573.0,0.0,7.642178829659652
+1119,Business and Commerce,Intended college major,2018-01-01,542.0,545.0,0.0,11.501033486305042
+1120,Communications and Journalism,Intended college major,2018-01-01,557.0,525.0,0.0,1.9536206863607908
+1121,Computer and Information sciences,Intended college major,2018-01-01,576.0,588.0,0.0,4.023459408546859
+1122,Construction Trades,Intended college major,2018-01-01,469.0,470.0,0.0,0.097054423534939
+1123,Education,Intended college major,2018-01-01,527.0,510.0,0.0,3.8126034750766262
+1124,Engineering,Intended college major,2018-01-01,565.0,587.0,0.0,10.707794813348665
+1125,Engineering Technologies,Intended college major,2018-01-01,518.0,536.0,0.0,1.7407416149361532
+1126,English Language and Literature,Intended college major,2018-01-01,593.0,539.0,0.0,0.9357013039124116
+1127,Family and Consumer Sciences,Intended college major,2018-01-01,491.0,475.0,0.0,0.2865550119308941
+1128,Foreign languages and literatures,Intended college major,2018-01-01,574.0,542.0,0.0,0.4956687988292775
+1129,Health And Allied Services,Intended college major,2018-01-01,533.0,522.0,0.0,18.730267380159983
+1130,History,Intended college major,2018-01-01,563.0,527.0,0.0,0.7154040599882883
+1131,Legal Professions And Studies,Intended college major,2018-01-01,562.0,538.0,0.0,1.9717727296739265
+1132,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2018-01-01,583.0,553.0,0.0,0.4923531005151134
+1133,Library Science/Librarianship,Intended college major,2018-01-01,581.0,530.0,0.0,0.0
+1134,Mathematics,Intended college major,2018-01-01,603.0,650.0,0.0,0.8049841127472303
+1135,Mechanic And Repair Technologies Technician,Intended college major,2018-01-01,468.0,470.0,0.0,0.2759335376702667
+1136,Military Technologies,Intended college major,2018-01-01,496.0,486.0,0.0,0.464141565706463
+1137,Multi/Interdisciplinary Studies,Intended college major,2018-01-01,591.0,584.0,0.0,0.2068096575614219
+1138,Natural Resources And Conservation,Intended college major,2018-01-01,564.0,545.0,0.0,0.5837876963989268
+1139,"Parks, Recreation, And Leisure Studies",Intended college major,2018-01-01,484.0,481.0,0.0,0.8166171559850604
+1140,Personal And Culinary Services,Intended college major,2018-01-01,480.0,463.0,0.0,0.4065945305589368
+1141,Philosophy And Religious Studies,Intended college major,2018-01-01,572.0,545.0,0.0,0.1865220797408585
+1142,Physical Sciences,Intended college major,2018-01-01,599.0,606.0,0.0,1.4832973102380898
+1143,Precision Production,Intended college major,2018-01-01,482.0,480.0,0.0,0.0
+1144,Psychology,Intended college major,2018-01-01,548.0,519.0,0.0,4.173902194767491
+1145,Public Administration And Social Services,Intended college major,2018-01-01,517.0,491.0,0.0,0.4449217551396133
+1146,Security And Protective Services,Intended college major,2018-01-01,497.0,482.0,0.0,3.711165585973809
+1147,Social Sciences,Intended college major,2018-01-01,595.0,571.0,0.0,1.966209100299312
+1148,Theology And Religious Vocations,Intended college major,2018-01-01,565.0,536.0,0.0,0.1133519237232032
+1149,Transportation And Materials Moving,Intended college major,2018-01-01,519.0,518.0,0.0,0.0513652247312879
+1150,"Visual And Performing Arts, General",Intended college major,2018-01-01,539.0,512.0,0.0,7.097786125095115
+1151,Other,Intended college major,2018-01-01,489.0,477.0,0.0,1.6449797517609732
+1152,Undecided,Intended college major,2018-01-01,547.0,540.0,0.0,7.70023164929578
+1153,Certificate program,Degree-level goal,2018-01-01,468.0,462.0,0.0,0.9885916434526094
+1154,Associate's Degree,Degree-level goal,2018-01-01,460.0,446.0,0.0,1.6328539111890688
+1155,Bachelor's degree,Degree-level goal,2018-01-01,530.0,520.0,0.0,27.609544474113385
+1156,Master's degree,Degree-level goal,2018-01-01,564.0,561.0,0.0,32.61248926978049
+1157,Doctoral or related degree,Degree-level goal,2018-01-01,584.0,579.0,0.0,23.282362919440917
+1158,Other,Degree-level goal,2018-01-01,462.0,461.0,0.0,0.6749933597744762
+1159,Undecided,Degree-level goal,2018-01-01,542.0,535.0,0.0,13.199164422249057
+1160,All students,All students,2008-01-01,502.0,515.0,494.0,100.0
+1161,Top decile,High school rank,2008-01-01,573.0,598.0,569.0,31.0
+1162,Second decile,High school rank,2008-01-01,511.0,531.0,505.0,27.0
+1163,Second quintile,High school rank,2008-01-01,481.0,495.0,472.0,20.0
+1164,Bottom three quintiles ,High school rank,2008-01-01,441.0,447.0,431.0,22.0
+1165,A+ (97-100),High school grade point average,2008-01-01,595.0,615.0,592.0,6.0
+1166,A (93-96),High school grade point average,2008-01-01,559.0,578.0,555.0,18.0
+1167,A- (90-92),High school grade point average,2008-01-01,529.0,547.0,523.0,19.0
+1168,B (80-89),High school grade point average,2008-01-01,474.0,484.0,465.0,47.0
+1169,C (70-79),High school grade point average,2008-01-01,421.0,423.0,408.0,11.0
+1170,"D, E, or F (below 70)",High school grade point average,2008-01-01,402.0,411.0,390.0,0.0
+1171,Public,High school type,2008-01-01,497.0,510.0,488.0,84.0
+1172,Religiously affiliated,High school type,2008-01-01,532.0,531.0,529.0,11.0
+1173,Independent,High school type,2008-01-01,550.0,574.0,553.0,5.0
+1174,Agriculture and Related Sciences,Intended college major,2008-01-01,478.0,481.0,465.0,1.0
+1175,Architecture,Intended college major,2008-01-01,488.0,532.0,483.0,2.0
+1176,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2008-01-01,554.0,521.0,541.0,0.0
+1177,Arts: Visual/Performing,Intended college major,2008-01-01,516.0,502.0,506.0,8.0
+1178,Biological and Biomedical Sciences,Intended college major,2008-01-01,537.0,551.0,528.0,5.0
+1179,Business and Commerce,Intended college major,2008-01-01,481.0,509.0,477.0,15.0
+1180,Communications and Journalism,Intended college major,2008-01-01,522.0,502.0,519.0,4.0
+1181,Computer and Information sciences,Intended college major,2008-01-01,502.0,529.0,477.0,3.0
+1182,Construction Trades,Intended college major,2008-01-01,424.0,460.0,409.0,0.0
+1183,Education,Intended college major,2008-01-01,478.0,482.0,475.0,7.0
+1184,Engineering,Intended college major,2008-01-01,522.0,579.0,508.0,8.0
+1185,Engineering Technologies,Intended college major,2008-01-01,462.0,508.0,447.0,1.0
+1186,Foreign languages and literatures,Intended college major,2008-01-01,576.0,545.0,564.0,1.0
+1187,General/Interdisciplinary,Intended college major,2008-01-01,,,,
+1188,Health And Allied Services,Intended college major,2008-01-01,486.0,498.0,483.0,19.0
+1189,History,Intended college major,2008-01-01,548.0,515.0,518.0,1.0
+1190,Home Economics,Intended college major,2008-01-01,466.0,467.0,462.0,0.0
+1191,Language And Literature,Intended college major,2008-01-01,592.0,533.0,577.0,2.0
+1192,Legal Professions And Studies,Intended college major,2008-01-01,509.0,505.0,500.0,3.0
+1193,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2008-01-01,554.0,532.0,544.0,1.0
+1194,Library And Archival Sciences,Intended college major,2008-01-01,587.0,517.0,537.0,0.0
+1195,Mathematics,Intended college major,2008-01-01,525.0,609.0,532.0,1.0
+1196,Mechanic And Repair Technologies Technician,Intended college major,2008-01-01,420.0,449.0,403.0,0.0
+1197,Military Sciences,Intended college major,2008-01-01,516.0,518.0,486.0,0.0
+1198,Multi/Interdisciplinary Studies,Intended college major,2008-01-01,598.0,586.0,586.0,0.0
+1199,Natural Resources And Conservation,Intended college major,2008-01-01,522.0,519.0,503.0,0.0
+1200,"Parks, Recreation, And Leisure Studies",Intended college major,2008-01-01,455.0,478.0,448.0,1.0
+1201,Personal And Culinary Services,Intended college major,2008-01-01,459.0,459.0,446.0,0.0
+1202,Philosophy And Religious Studies,Intended college major,2008-01-01,569.0,548.0,546.0,0.0
+1203,Physical Sciences,Intended college major,2008-01-01,556.0,586.0,539.0,1.0
+1204,Precision Production,Intended college major,2008-01-01,436.0,462.0,412.0,0.0
+1205,Psychology,Intended college major,2008-01-01,503.0,488.0,496.0,5.0
+1206,Public Affairs And Services,Intended college major,2008-01-01,467.0,452.0,461.0,0.0
+1207,Security And Protective Services,Intended college major,2008-01-01,451.0,458.0,440.0,2.0
+1208,Social Sciences,Intended college major,2008-01-01,,,,
+1209,Social Sciences,Intended college major,2008-01-01,567.0,546.0,551.0,2.0
+1210,Technical And Vocational,Intended college major,2008-01-01,,,,
+1211,Theology And Religious Vocations,Intended college major,2008-01-01,544.0,525.0,522.0,0.0
+1212,Transportation And Materials Moving,Intended college major,2008-01-01,461.0,490.0,445.0,0.0
+1213,Other,Intended college major,2008-01-01,466.0,472.0,456.0,1.0
+1214,Undecided,Intended college major,2008-01-01,525.0,540.0,516.0,3.0
+1215,Certificate program,Degree-level goal,2008-01-01,438.0,455.0,430.0,1.0
+1216,Associate's Degree,Degree-level goal,2008-01-01,416.0,419.0,407.0,1.0
+1217,Bachelor's degree,Degree-level goal,2008-01-01,475.0,485.0,466.0,27.0
+1218,Master's degree,Degree-level goal,2008-01-01,505.0,519.0,498.0,31.0
+1219,Doctoral or related degree,Degree-level goal,2008-01-01,531.0,542.0,524.0,19.0
+1220,Other,Degree-level goal,2008-01-01,433.0,449.0,430.0,0.0
+1221,Undecided,Degree-level goal,2008-01-01,512.0,523.0,504.0,21.0
+1222,"Less than $20,000",Family income,2008-01-01,434.0,456.0,430.0,10.0
+1223,"$20,000, to $40,000",Family income,2008-01-01,462.0,473.0,453.0,15.0
+1224,"$40,000, to $60,000",Family income,2008-01-01,488.0,496.0,477.0,16.0
+1225,"$60,000, to $80,000",Family income,2008-01-01,502.0,510.0,490.0,16.0
+1226,"$80,000 to $100,000",Family income,2008-01-01,514.0,525.0,504.0,13.0
+1227,"$100,000, to $150,000",Family income,2008-01-01,522.0,534.0,512.0,11.0
+1228,"$100,000, to $150,000",Family income,2008-01-01,526.0,537.0,517.0,5.0
+1229,"$100,000, to $150,000",Family income,2008-01-01,533.0,546.0,525.0,4.0
+1230,"$150,000, to $200,000",Family income,2008-01-01,535.0,548.0,529.0,4.0
+1231,"More than $200,000",Family income,2008-01-01,554.0,570.0,552.0,6.0
+1232,No high school diploma,Highest level of parental education,2008-01-01,419.0,441.0,417.0,5.0
+1233,High school diploma,Highest level of parental education,2008-01-01,464.0,474.0,455.0,32.0
+1234,Associate's Degree,Highest level of parental education,2008-01-01,482.0,490.0,471.0,9.0
+1235,Bachelor's degree,Highest level of parental education,2008-01-01,518.0,531.0,510.0,30.0
+1236,Graduate degree,Highest level of parental education,2008-01-01,553.0,565.0,546.0,25.0
+1237,All students,All students,2009-01-01,501.0,515.0,493.0,100.0
+1238,Top decile,High school rank,2009-01-01,576.0,603.0,573.0,33.0
+1239,Second decile,High school rank,2009-01-01,512.0,534.0,505.0,27.0
+1240,Second quintile,High school rank,2009-01-01,482.0,497.0,471.0,19.0
+1241,Bottom three quintiles ,High school rank,2009-01-01,441.0,448.0,430.0,20.0
+1242,A+ (97-100),High school grade point average,2009-01-01,599.0,621.0,597.0,6.0
+1243,A (93-96),High school grade point average,2009-01-01,563.0,583.0,559.0,19.0
+1244,A- (90-92),High school grade point average,2009-01-01,532.0,551.0,526.0,19.0
+1245,B (80-89),High school grade point average,2009-01-01,474.0,484.0,464.0,46.0
+1246,C (70-79),High school grade point average,2009-01-01,420.0,422.0,406.0,11.0
+1247,"D, E, or F (below 70)",High school grade point average,2009-01-01,399.0,412.0,387.0,0.0
+1248,Public,High school type,2009-01-01,496.0,510.0,487.0,84.0
+1249,"Private, religiously affiliated",High school type,2009-01-01,533.0,533.0,530.0,11.0
+1250,"Private, independent",High school type,2009-01-01,550.0,578.0,555.0,6.0
+1251,Agriculture and Related Sciences,Intended college major,2009-01-01,478.0,485.0,465.0,1.0
+1252,Architecture,Intended college major,2009-01-01,491.0,534.0,485.0,2.0
+1253,"Area, Ethnic, Cultural, and Gender Studies",Intended college major,2009-01-01,551.0,515.0,536.0,0.0
+1254,Arts: Visual/Performing,Intended college major,2009-01-01,516.0,503.0,506.0,8.0
+1255,Biological and Biomedical Sciences,Intended college major,2009-01-01,541.0,557.0,533.0,6.0
+1256,Business and Commerce,Intended college major,2009-01-01,486.0,516.0,481.0,14.0
+1257,Communications and Journalism,Intended college major,2009-01-01,522.0,502.0,518.0,4.0
+1258,Computer and Information sciences,Intended college major,2009-01-01,506.0,533.0,481.0,3.0
+1259,Construction Trades,Intended college major,2009-01-01,423.0,458.0,404.0,0.0
+1260,Education,Intended college major,2009-01-01,478.0,483.0,475.0,7.0
+1261,Engineering,Intended college major,2009-01-01,526.0,582.0,511.0,8.0
+1262,Engineering Technologies,Intended college major,2009-01-01,464.0,511.0,448.0,1.0
+1263,Foreign languages and literatures,Intended college major,2009-01-01,574.0,545.0,563.0,1.0
+1264,General/Interdisciplinary,Intended college major,2009-01-01,,,,
+1265,Health And Allied Services,Intended college major,2009-01-01,488.0,501.0,485.0,19.0
+1266,History,Intended college major,2009-01-01,548.0,517.0,518.0,1.0
+1267,Home Economics,Intended college major,2009-01-01,467.0,468.0,462.0,0.0
+1268,Language And Literature,Intended college major,2009-01-01,589.0,530.0,572.0,2.0
+1269,Legal Professions And Studies,Intended college major,2009-01-01,510.0,506.0,500.0,3.0
+1270,"Liberal Arts And Sciences, General Studies, And Humanities",Intended college major,2009-01-01,553.0,532.0,541.0,1.0
+1271,Library And Archival Sciences,Intended college major,2009-01-01,576.0,510.0,534.0,0.0
+1272,Mathematics,Intended college major,2009-01-01,528.0,613.0,527.0,1.0
+1273,Mechanic And Repair Technologies Technician,Intended college major,2009-01-01,418.0,447.0,401.0,0.0
+1274,Military Sciences,Intended college major,2009-01-01,518.0,520.0,483.0,0.0
+1275,Multi/Interdisciplinary Studies,Intended college major,2009-01-01,604.0,594.0,590.0,0.0
+1276,Natural Resources And Conservation,Intended college major,2009-01-01,521.0,521.0,504.0,1.0
+1277,"Parks, Recreation, And Leisure Studies",Intended college major,2009-01-01,452.0,476.0,442.0,1.0
+1278,Personal And Culinary Services,Intended college major,2009-01-01,460.0,458.0,445.0,0.0
+1279,Philosophy And Religious Studies,Intended college major,2009-01-01,567.0,543.0,543.0,0.0
+1280,Physical Sciences,Intended college major,2009-01-01,561.0,592.0,544.0,1.0
+1281,Precision Production,Intended college major,2009-01-01,441.0,468.0,411.0,0.0
+1282,Psychology,Intended college major,2009-01-01,501.0,488.0,494.0,5.0
+1283,Public Affairs And Services,Intended college major,2009-01-01,466.0,451.0,458.0,0.0
+1284,Security And Protective Services,Intended college major,2009-01-01,449.0,458.0,438.0,2.0
+1285,Social Sciences,Intended college major,2009-01-01,,,,
+1286,Social Sciences,Intended college major,2009-01-01,568.0,550.0,552.0,2.0
+1287,Technical And Vocational,Intended college major,2009-01-01,,,,
+1288,Theology And Religious Vocations,Intended college major,2009-01-01,542.0,527.0,521.0,0.0
+1289,Transportation And Materials Moving,Intended college major,2009-01-01,460.0,486.0,445.0,0.0
+1290,Other,Intended college major,2009-01-01,467.0,474.0,456.0,1.0
+1291,Undecided,Intended college major,2009-01-01,532.0,549.0,523.0,4.0
+1292,Certificate program,Degree-level goal,2009-01-01,441.0,461.0,432.0,1.0
+1293,Associate's Degree,Degree-level goal,2009-01-01,415.0,418.0,404.0,1.0
+1294,Bachelor's degree,Degree-level goal,2009-01-01,476.0,486.0,465.0,26.0
+1295,Master's degree,Degree-level goal,2009-01-01,507.0,522.0,500.0,31.0
+1296,Doctoral or related degree,Degree-level goal,2009-01-01,534.0,548.0,528.0,20.0
+1297,Other,Degree-level goal,2009-01-01,433.0,452.0,429.0,0.0
+1298,Undecided,Degree-level goal,2009-01-01,516.0,529.0,508.0,20.0
+1299,"Less than $20,000",Family income,2009-01-01,434.0,457.0,430.0,10.0
+1300,"$20,000, to $40,000",Family income,2009-01-01,462.0,475.0,453.0,15.0
+1301,"$40,000, to $60,000",Family income,2009-01-01,488.0,497.0,476.0,15.0
+1302,"$60,000, to $80,000",Family income,2009-01-01,503.0,512.0,491.0,15.0
+1303,"$80,000 to $100,000",Family income,2009-01-01,517.0,528.0,505.0,13.0
+1304,"$100,000, to $150,000",Family income,2009-01-01,525.0,538.0,516.0,11.0
+1305,"$100,000, to $150,000",Family income,2009-01-01,529.0,542.0,520.0,5.0
+1306,"$100,000, to $150,000",Family income,2009-01-01,536.0,550.0,527.0,4.0
+1307,"$150,000, to $200,000",Family income,2009-01-01,542.0,554.0,535.0,5.0
+1308,"More than $200,000",Family income,2009-01-01,563.0,579.0,560.0,7.0
+1309,No high school diploma,Highest level of parental education,2009-01-01,420.0,443.0,418.0,5.0
+1310,High school diploma,Highest level of parental education,2009-01-01,464.0,474.0,454.0,31.0
+1311,Associate's Degree,Highest level of parental education,2009-01-01,482.0,491.0,469.0,9.0
+1312,Bachelor's degree,Highest level of parental education,2009-01-01,521.0,535.0,512.0,30.0
+1313,Graduate degree,Highest level of parental education,2009-01-01,559.0,572.0,552.0,25.0
