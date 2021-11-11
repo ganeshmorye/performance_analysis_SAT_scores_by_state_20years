@@ -8,6 +8,7 @@
   - [Data](#data)
   - [Data Dictionary](#data-dictionary)
   - [Outside Research](#outside-research)
+  - [Visualizations](#visualizations)
   - [Observations](#observations)
   - [Conclusions and Recommendations](#conclusions-and-recommendations)
   - [References](#references)
@@ -73,7 +74,7 @@ Every year they publish digest tables providing a wide variety information. Data
 [Percent of Graduates Taking SAT and Mean Total Scores for Each State](imgs/Percent_of_Graduates_Taking_SAT_and_Mean_Total_Scores_for_Each_State_(2000-2019).png)<br>
 [Trends in SAT Scores by High School Rank](imgs/Distribution_of_Total_SAT_Scores_by_High_School_Rank_Category.png)<br>
 [Trends in SAT Scores by High School GPA](imgs/Distribution_of_Total_SAT_Scores_by_High_School_GPA.png)<br>
-[Trends in SAT Scores by Familu Income](imgs/Distribution_of_Total_SAT_Scores_by_Family_Income.png)<br>
+[Trends in SAT Scores by Family Income](imgs/Distribution_of_Total_SAT_Scores_by_Family_Income.png)<br>
 [Trends in SAT Scores by Parental Education](imgs/Distribution_of_Total_SAT_Scores_by_Highest_Level_of_Parental_Education.png)<br>
 [Trends in SAT Scores by Degree Level Goal](imgs/Distribution_of_Total_SAT_Scores_by_Degree_Level_Goal.png)<br>
 [Trends in SAT Scores by Intended College Major](imgs/Distribution_of_Total_SAT_Scores_by_Intended_College_Major.png)<br>
